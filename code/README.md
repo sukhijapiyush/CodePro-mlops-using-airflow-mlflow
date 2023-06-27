@@ -26,8 +26,3 @@
 2. https://airflow.apache.org/docs/apache-airflow/stable/tutorial/fundamentals.html
 3. https://www.mlflow.org/docs/latest/index.html
 4. https://towardsdatascience.com/a-true-end-to-end-ml-example-lead-scoring-f5b52e9a3c80
-
-
-## Contact
-Created by [https://github.com/Veneeshkrishnan] - feel free to contact me!
-1. Veneesh -  veneeshkrish96@gmail.com
