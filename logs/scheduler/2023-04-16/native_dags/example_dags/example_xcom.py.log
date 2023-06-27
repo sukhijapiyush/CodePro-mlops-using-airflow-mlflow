@@ -1,0 +1,42 @@
+[2023-04-16T15:29:39.414+0530] {processor.py:153} INFO - Started process (PID=126004) to work on /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-16T15:29:39.414+0530] {processor.py:743} INFO - Processing file /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2023-04-16T15:29:39.415+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:29:39.415+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-16T15:29:39.435+0530] {processor.py:753} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-16T15:29:39.453+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:29:39.453+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T15:29:39.467+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:29:39.467+0530] {dag.py:3452} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2023-04-16T15:29:39.497+0530] {processor.py:175} INFO - Processing /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.085 seconds
+[2023-04-16T15:30:50.626+0530] {processor.py:153} INFO - Started process (PID=126220) to work on /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-16T15:30:50.628+0530] {processor.py:743} INFO - Processing file /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2023-04-16T15:30:50.629+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:30:50.629+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-16T15:30:50.644+0530] {processor.py:753} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-16T15:30:50.656+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:30:50.656+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T15:30:50.670+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:30:50.670+0530] {dag.py:3452} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2023-04-16T15:30:52.067+0530] {processor.py:175} INFO - Processing /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 1.443 seconds
+[2023-04-16T15:32:06.383+0530] {processor.py:153} INFO - Started process (PID=126365) to work on /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-16T15:32:06.385+0530] {processor.py:743} INFO - Processing file /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2023-04-16T15:32:06.385+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:32:06.385+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-16T15:32:06.397+0530] {processor.py:753} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-16T15:32:06.408+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:32:06.408+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T15:32:06.418+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:32:06.418+0530] {dag.py:3452} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2023-04-16T15:32:06.619+0530] {processor.py:175} INFO - Processing /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.237 seconds
+[2023-04-16T15:33:07.923+0530] {processor.py:153} INFO - Started process (PID=126488) to work on /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-16T15:33:07.924+0530] {processor.py:743} INFO - Processing file /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2023-04-16T15:33:07.925+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:33:07.925+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-16T15:33:07.947+0530] {processor.py:753} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-16T15:33:07.963+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:33:07.963+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T15:33:07.976+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:33:07.976+0530] {dag.py:3452} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2023-04-16T15:33:08.141+0530] {processor.py:175} INFO - Processing /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.221 seconds
+[2023-04-16T15:34:24.015+0530] {processor.py:153} INFO - Started process (PID=126632) to work on /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-16T15:34:24.017+0530] {processor.py:743} INFO - Processing file /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2023-04-16T15:34:24.017+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:34:24.017+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-16T15:34:24.040+0530] {processor.py:753} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-16T15:34:24.057+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:34:24.057+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T15:34:24.070+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:34:24.070+0530] {dag.py:3452} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2023-04-16T15:34:24.104+0530] {processor.py:175} INFO - Processing /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.090 seconds
+[2023-04-16T15:35:40.564+0530] {processor.py:153} INFO - Started process (PID=126877) to work on /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-16T15:35:40.579+0530] {processor.py:743} INFO - Processing file /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2023-04-16T15:35:40.579+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:35:40.579+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-16T15:35:40.597+0530] {processor.py:753} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-16T15:35:40.613+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:35:40.613+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T15:35:40.630+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:35:40.630+0530] {dag.py:3452} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2023-04-16T15:35:41.197+0530] {processor.py:175} INFO - Processing /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.635 seconds

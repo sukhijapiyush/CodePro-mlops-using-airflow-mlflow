@@ -1,0 +1,24 @@
+[2023-04-16T15:30:11.422+0530] {taskinstance.py:1090} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: Lead_Scoring_Data_Engineering_Pipeline.checking_raw_data_schema scheduled__2023-04-15T00:00:00+00:00 [queued]>
+[2023-04-16T15:30:11.426+0530] {taskinstance.py:1090} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: Lead_Scoring_Data_Engineering_Pipeline.checking_raw_data_schema scheduled__2023-04-15T00:00:00+00:00 [queued]>
+[2023-04-16T15:30:11.427+0530] {taskinstance.py:1288} INFO - 
+--------------------------------------------------------------------------------
+[2023-04-16T15:30:11.427+0530] {taskinstance.py:1289} INFO - Starting attempt 1 of 2
+[2023-04-16T15:30:11.427+0530] {taskinstance.py:1290} INFO - 
+--------------------------------------------------------------------------------
+[2023-04-16T15:30:11.688+0530] {taskinstance.py:1309} INFO - Executing <Task(PythonOperator): checking_raw_data_schema> on 2023-04-15 00:00:00+00:00
+[2023-04-16T15:30:11.692+0530] {standard_task_runner.py:55} INFO - Started process 126110 to run task
+[2023-04-16T15:30:11.694+0530] {standard_task_runner.py:82} INFO - Running: ['airflow', 'tasks', 'run', 'Lead_Scoring_Data_Engineering_Pipeline', 'checking_raw_data_schema', 'scheduled__2023-04-15T00:00:00+00:00', '--job-id', '3', '--raw', '--subdir', 'DAGS_FOLDER/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py', '--cfg-path', '/tmp/tmpepery4ic']
+[2023-04-16T15:30:11.694+0530] {standard_task_runner.py:83} INFO - Job 3: Subtask checking_raw_data_schema
+[2023-04-16T15:30:11.733+0530] {task_command.py:389} INFO - Running <TaskInstance: Lead_Scoring_Data_Engineering_Pipeline.checking_raw_data_schema scheduled__2023-04-15T00:00:00+00:00 [running]> on host pop-os.localdomain
+[2023-04-16T15:30:11.783+0530] {taskinstance.py:1516} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=Lead_Scoring_Data_Engineering_Pipeline
+AIRFLOW_CTX_TASK_ID=checking_raw_data_schema
+AIRFLOW_CTX_EXECUTION_DATE=2023-04-15T00:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2023-04-15T00:00:00+00:00
+[2023-04-16T15:30:11.785+0530] {logging_mixin.py:137} INFO - Exception thrown in raw_data_schema_check : [Errno 2] No such file or directory: '/home/dags/Lead_scoring_data_pipeline/data/leadscoring.csv'
+[2023-04-16T15:30:11.785+0530] {python.py:177} INFO - Done. Returned value was: None
+[2023-04-16T15:30:11.787+0530] {taskinstance.py:1327} INFO - Marking task as SUCCESS. dag_id=Lead_Scoring_Data_Engineering_Pipeline, task_id=checking_raw_data_schema, execution_date=20230415T000000, start_date=20230416T100011, end_date=20230416T100011
+[2023-04-16T15:30:11.826+0530] {local_task_job.py:212} INFO - Task exited with return code 0
+[2023-04-16T15:30:11.845+0530] {taskinstance.py:2596} INFO - 1 downstream tasks scheduled from follow-on schedule check

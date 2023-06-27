@@ -1,0 +1,33 @@
+[2023-04-16T15:30:21.538+0530] {taskinstance.py:1090} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: Lead_Scoring_Data_Engineering_Pipeline.loading_data scheduled__2023-04-15T00:00:00+00:00 [queued]>
+[2023-04-16T15:30:21.542+0530] {taskinstance.py:1090} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: Lead_Scoring_Data_Engineering_Pipeline.loading_data scheduled__2023-04-15T00:00:00+00:00 [queued]>
+[2023-04-16T15:30:21.542+0530] {taskinstance.py:1288} INFO - 
+--------------------------------------------------------------------------------
+[2023-04-16T15:30:21.542+0530] {taskinstance.py:1289} INFO - Starting attempt 2 of 2
+[2023-04-16T15:30:21.542+0530] {taskinstance.py:1290} INFO - 
+--------------------------------------------------------------------------------
+[2023-04-16T15:30:21.579+0530] {taskinstance.py:1309} INFO - Executing <Task(PythonOperator): loading_data> on 2023-04-15 00:00:00+00:00
+[2023-04-16T15:30:21.582+0530] {standard_task_runner.py:55} INFO - Started process 126142 to run task
+[2023-04-16T15:30:21.584+0530] {standard_task_runner.py:82} INFO - Running: ['airflow', 'tasks', 'run', 'Lead_Scoring_Data_Engineering_Pipeline', 'loading_data', 'scheduled__2023-04-15T00:00:00+00:00', '--job-id', '5', '--raw', '--subdir', 'DAGS_FOLDER/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py', '--cfg-path', '/tmp/tmpymu36gme']
+[2023-04-16T15:30:21.584+0530] {standard_task_runner.py:83} INFO - Job 5: Subtask loading_data
+[2023-04-16T15:30:21.639+0530] {task_command.py:389} INFO - Running <TaskInstance: Lead_Scoring_Data_Engineering_Pipeline.loading_data scheduled__2023-04-15T00:00:00+00:00 [running]> on host pop-os.localdomain
+[2023-04-16T15:30:21.701+0530] {taskinstance.py:1516} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=Lead_Scoring_Data_Engineering_Pipeline
+AIRFLOW_CTX_TASK_ID=loading_data
+AIRFLOW_CTX_EXECUTION_DATE=2023-04-15T00:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=2
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2023-04-15T00:00:00+00:00
+[2023-04-16T15:30:21.703+0530] {logging_mixin.py:137} INFO - Exception thrown in load_data_into_db : unable to open database file
+[2023-04-16T15:30:21.703+0530] {taskinstance.py:1776} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/operators/python.py", line 175, in execute
+    return_value = self.execute_callable()
+  File "/home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/operators/python.py", line 192, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/utils.py", line 137, in load_data_into_db
+    if conn:
+UnboundLocalError: local variable 'conn' referenced before assignment
+[2023-04-16T15:30:21.707+0530] {taskinstance.py:1327} INFO - Marking task as FAILED. dag_id=Lead_Scoring_Data_Engineering_Pipeline, task_id=loading_data, execution_date=20230415T000000, start_date=20230416T100021, end_date=20230416T100021
+[2023-04-16T15:30:21.748+0530] {standard_task_runner.py:100} ERROR - Failed to execute job 5 for task loading_data (local variable 'conn' referenced before assignment; 126142)
+[2023-04-16T15:30:21.756+0530] {local_task_job.py:212} INFO - Task exited with return code 1
+[2023-04-16T15:30:21.767+0530] {taskinstance.py:2596} INFO - 0 downstream tasks scheduled from follow-on schedule check

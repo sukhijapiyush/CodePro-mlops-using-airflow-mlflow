@@ -1,0 +1,30 @@
+[2023-04-16T15:29:41.692+0530] {processor.py:153} INFO - Started process (PID=126007) to work on /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-04-16T15:29:41.692+0530] {processor.py:743} INFO - Processing file /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-04-16T15:29:41.693+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:29:41.693+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-04-16T15:29:41.694+0530] {processor.py:755} WARNING - No viable dags retrieved from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-04-16T15:29:41.697+0530] {processor.py:175} INFO - Processing /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.006 seconds
+[2023-04-16T15:30:54.343+0530] {processor.py:153} INFO - Started process (PID=126223) to work on /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-04-16T15:30:54.345+0530] {processor.py:743} INFO - Processing file /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-04-16T15:30:54.345+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:30:54.345+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-04-16T15:30:54.347+0530] {processor.py:755} WARNING - No viable dags retrieved from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-04-16T15:30:54.352+0530] {processor.py:175} INFO - Processing /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.009 seconds
+[2023-04-16T15:32:08.378+0530] {processor.py:153} INFO - Started process (PID=126368) to work on /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-04-16T15:32:08.379+0530] {processor.py:743} INFO - Processing file /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-04-16T15:32:08.380+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:32:08.380+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-04-16T15:32:08.383+0530] {processor.py:755} WARNING - No viable dags retrieved from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-04-16T15:32:08.389+0530] {processor.py:175} INFO - Processing /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.014 seconds
+[2023-04-16T15:33:10.629+0530] {processor.py:153} INFO - Started process (PID=126492) to work on /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-04-16T15:33:10.630+0530] {processor.py:743} INFO - Processing file /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-04-16T15:33:10.631+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:33:10.631+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-04-16T15:33:10.633+0530] {processor.py:755} WARNING - No viable dags retrieved from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-04-16T15:33:10.637+0530] {processor.py:175} INFO - Processing /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.010 seconds
+[2023-04-16T15:34:25.503+0530] {processor.py:153} INFO - Started process (PID=126635) to work on /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-04-16T15:34:25.584+0530] {processor.py:743} INFO - Processing file /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-04-16T15:34:25.585+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:34:25.584+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-04-16T15:34:25.587+0530] {processor.py:755} WARNING - No viable dags retrieved from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-04-16T15:34:25.593+0530] {processor.py:175} INFO - Processing /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.092 seconds
+[2023-04-16T15:35:44.347+0530] {processor.py:153} INFO - Started process (PID=126879) to work on /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-04-16T15:35:44.354+0530] {processor.py:743} INFO - Processing file /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-04-16T15:35:44.355+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:35:44.355+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-04-16T15:35:44.357+0530] {processor.py:755} WARNING - No viable dags retrieved from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-04-16T15:35:44.361+0530] {processor.py:175} INFO - Processing /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.016 seconds

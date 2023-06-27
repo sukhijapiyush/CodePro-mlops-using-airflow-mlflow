@@ -1,0 +1,42 @@
+[2023-04-16T15:29:52.568+0530] {processor.py:153} INFO - Started process (PID=126070) to work on /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-16T15:29:52.569+0530] {processor.py:743} INFO - Processing file /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-04-16T15:29:52.569+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:29:52.569+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-16T15:29:52.589+0530] {processor.py:753} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-16T15:29:52.605+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:29:52.604+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T15:29:52.621+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:29:52.621+0530] {dag.py:3452} INFO - Setting next_dagrun for example_sla_dag to 2023-04-16T09:56:00+00:00, run_after=2023-04-16T09:58:00+00:00
+[2023-04-16T15:29:52.851+0530] {processor.py:175} INFO - Processing /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py took 0.284 seconds
+[2023-04-16T15:31:02.567+0530] {processor.py:153} INFO - Started process (PID=126247) to work on /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-16T15:31:02.568+0530] {processor.py:743} INFO - Processing file /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-04-16T15:31:02.569+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:31:02.569+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-16T15:31:02.589+0530] {processor.py:753} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-16T15:31:02.604+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:31:02.604+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T15:31:02.620+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:31:02.620+0530] {dag.py:3452} INFO - Setting next_dagrun for example_sla_dag to 2023-04-16T09:58:00+00:00, run_after=2023-04-16T10:00:00+00:00
+[2023-04-16T15:31:02.656+0530] {processor.py:175} INFO - Processing /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py took 0.090 seconds
+[2023-04-16T15:32:18.164+0530] {processor.py:153} INFO - Started process (PID=126388) to work on /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-16T15:32:18.216+0530] {processor.py:743} INFO - Processing file /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-04-16T15:32:18.217+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:32:18.217+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-16T15:32:18.235+0530] {processor.py:753} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-16T15:32:18.249+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:32:18.249+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T15:32:18.268+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:32:18.268+0530] {dag.py:3452} INFO - Setting next_dagrun for example_sla_dag to 2023-04-16T10:00:00+00:00, run_after=2023-04-16T10:02:00+00:00
+[2023-04-16T15:32:18.295+0530] {processor.py:175} INFO - Processing /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py took 0.132 seconds
+[2023-04-16T15:33:18.373+0530] {processor.py:153} INFO - Started process (PID=126510) to work on /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-16T15:33:18.375+0530] {processor.py:743} INFO - Processing file /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-04-16T15:33:18.375+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:33:18.375+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-16T15:33:18.396+0530] {processor.py:753} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-16T15:33:18.411+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:33:18.410+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T15:33:18.427+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:33:18.427+0530] {dag.py:3452} INFO - Setting next_dagrun for example_sla_dag to 2023-04-16T10:00:00+00:00, run_after=2023-04-16T10:02:00+00:00
+[2023-04-16T15:33:18.578+0530] {processor.py:175} INFO - Processing /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py took 0.207 seconds
+[2023-04-16T15:34:35.005+0530] {processor.py:153} INFO - Started process (PID=126658) to work on /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-16T15:34:35.006+0530] {processor.py:743} INFO - Processing file /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-04-16T15:34:35.007+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:34:35.007+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-16T15:34:35.028+0530] {processor.py:753} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-16T15:34:35.044+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:34:35.043+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T15:34:35.060+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:34:35.060+0530] {dag.py:3452} INFO - Setting next_dagrun for example_sla_dag to 2023-04-16T10:02:00+00:00, run_after=2023-04-16T10:04:00+00:00
+[2023-04-16T15:34:36.212+0530] {processor.py:175} INFO - Processing /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py took 1.209 seconds
+[2023-04-16T15:35:53.474+0530] {processor.py:153} INFO - Started process (PID=126899) to work on /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-16T15:35:53.476+0530] {processor.py:743} INFO - Processing file /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-04-16T15:35:53.477+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:35:53.476+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-16T15:35:53.499+0530] {processor.py:753} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-16T15:35:53.514+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:35:53.514+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T15:35:53.529+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:35:53.529+0530] {dag.py:3452} INFO - Setting next_dagrun for example_sla_dag to 2023-04-16T10:02:00+00:00, run_after=2023-04-16T10:04:00+00:00
+[2023-04-16T15:35:53.802+0530] {processor.py:175} INFO - Processing /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py took 0.329 seconds

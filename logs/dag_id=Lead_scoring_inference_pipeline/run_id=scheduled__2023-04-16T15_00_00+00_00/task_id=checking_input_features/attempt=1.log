@@ -1,0 +1,24 @@
+[2023-04-16T22:00:31.049+0530] {taskinstance.py:1090} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: Lead_scoring_inference_pipeline.checking_input_features scheduled__2023-04-16T15:00:00+00:00 [queued]>
+[2023-04-16T22:00:31.052+0530] {taskinstance.py:1090} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: Lead_scoring_inference_pipeline.checking_input_features scheduled__2023-04-16T15:00:00+00:00 [queued]>
+[2023-04-16T22:00:31.052+0530] {taskinstance.py:1288} INFO - 
+--------------------------------------------------------------------------------
+[2023-04-16T22:00:31.052+0530] {taskinstance.py:1289} INFO - Starting attempt 1 of 2
+[2023-04-16T22:00:31.052+0530] {taskinstance.py:1290} INFO - 
+--------------------------------------------------------------------------------
+[2023-04-16T22:00:31.086+0530] {taskinstance.py:1309} INFO - Executing <Task(PythonOperator): checking_input_features> on 2023-04-16 15:00:00+00:00
+[2023-04-16T22:00:31.089+0530] {standard_task_runner.py:55} INFO - Started process 42462 to run task
+[2023-04-16T22:00:31.091+0530] {standard_task_runner.py:82} INFO - Running: ['airflow', 'tasks', 'run', 'Lead_scoring_inference_pipeline', 'checking_input_features', 'scheduled__2023-04-16T15:00:00+00:00', '--job-id', '27', '--raw', '--subdir', 'DAGS_FOLDER/Lead_scoring_inference_pipeline/lead_scoring_inference_pipeline.py', '--cfg-path', '/tmp/tmpe1mayfp1']
+[2023-04-16T22:00:31.092+0530] {standard_task_runner.py:83} INFO - Job 27: Subtask checking_input_features
+[2023-04-16T22:00:31.137+0530] {task_command.py:389} INFO - Running <TaskInstance: Lead_scoring_inference_pipeline.checking_input_features scheduled__2023-04-16T15:00:00+00:00 [running]> on host pop-os.localdomain
+[2023-04-16T22:00:31.194+0530] {taskinstance.py:1516} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=Lead_scoring_inference_pipeline
+AIRFLOW_CTX_TASK_ID=checking_input_features
+AIRFLOW_CTX_EXECUTION_DATE=2023-04-16T15:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2023-04-16T15:00:00+00:00
+[2023-04-16T22:00:32.822+0530] {utils.py:243} INFO - All the models input are present
+[2023-04-16T22:00:32.823+0530] {python.py:177} INFO - Done. Returned value was: None
+[2023-04-16T22:00:32.826+0530] {taskinstance.py:1327} INFO - Marking task as SUCCESS. dag_id=Lead_scoring_inference_pipeline, task_id=checking_input_features, execution_date=20230416T150000, start_date=20230416T163031, end_date=20230416T163032
+[2023-04-16T22:00:32.872+0530] {local_task_job.py:212} INFO - Task exited with return code 0
+[2023-04-16T22:00:32.882+0530] {taskinstance.py:2596} INFO - 0 downstream tasks scheduled from follow-on schedule check

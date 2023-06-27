@@ -1,0 +1,369 @@
+[2023-04-16T15:29:27.428+0530] {processor.py:153} INFO - Started process (PID=125957) to work on /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T15:29:27.428+0530] {processor.py:743} INFO - Processing file /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py for tasks to queue
+[2023-04-16T15:29:27.429+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:29:27.429+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T15:29:27.491+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:29:27.491+0530] {utils.py:148} INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2023-04-16T15:29:27.491+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:29:27.491+0530] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2023-04-16T15:29:27.596+0530] {processor.py:753} INFO - DAG(s) dict_keys(['Lead_Scoring_Data_Engineering_Pipeline']) retrieved from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T15:29:27.607+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:29:27.606+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T15:29:27.617+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:29:27.617+0530] {dag.py:3452} INFO - Setting next_dagrun for Lead_Scoring_Data_Engineering_Pipeline to 2023-04-15T00:00:00+00:00, run_after=2023-04-16T00:00:00+00:00
+[2023-04-16T15:29:27.651+0530] {processor.py:175} INFO - Processing /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py took 0.225 seconds
+[2023-04-16T15:30:43.110+0530] {processor.py:153} INFO - Started process (PID=126200) to work on /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T15:30:43.115+0530] {processor.py:743} INFO - Processing file /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py for tasks to queue
+[2023-04-16T15:30:43.115+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:30:43.115+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T15:30:43.181+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:30:43.180+0530] {utils.py:148} INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2023-04-16T15:30:43.181+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:30:43.181+0530] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2023-04-16T15:30:43.297+0530] {processor.py:753} INFO - DAG(s) dict_keys(['Lead_Scoring_Data_Engineering_Pipeline']) retrieved from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T15:30:43.372+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:30:43.372+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T15:30:43.399+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:30:43.398+0530] {dag.py:3452} INFO - Setting next_dagrun for Lead_Scoring_Data_Engineering_Pipeline to 2023-04-16T00:00:00+00:00, run_after=2023-04-17T00:00:00+00:00
+[2023-04-16T15:30:43.458+0530] {processor.py:175} INFO - Processing /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py took 0.350 seconds
+[2023-04-16T15:31:21.449+0530] {processor.py:153} INFO - Started process (PID=126289) to work on /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T15:31:21.451+0530] {processor.py:743} INFO - Processing file /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py for tasks to queue
+[2023-04-16T15:31:21.451+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:31:21.451+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T15:31:21.504+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:31:21.504+0530] {utils.py:148} INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2023-04-16T15:31:21.504+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:31:21.504+0530] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2023-04-16T15:31:21.623+0530] {processor.py:753} INFO - DAG(s) dict_keys(['Lead_Scoring_Data_Engineering_Pipeline']) retrieved from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T15:31:21.642+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:31:21.642+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T15:31:24.889+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:31:24.889+0530] {dag.py:3452} INFO - Setting next_dagrun for Lead_Scoring_Data_Engineering_Pipeline to 2023-04-16T00:00:00+00:00, run_after=2023-04-17T00:00:00+00:00
+[2023-04-16T15:31:24.928+0530] {processor.py:175} INFO - Processing /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py took 3.481 seconds
+[2023-04-16T15:32:30.287+0530] {processor.py:153} INFO - Started process (PID=126422) to work on /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T15:32:30.305+0530] {processor.py:743} INFO - Processing file /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py for tasks to queue
+[2023-04-16T15:32:30.305+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:32:30.305+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T15:32:30.372+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:32:30.372+0530] {utils.py:148} INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2023-04-16T15:32:30.372+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:32:30.372+0530] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2023-04-16T15:32:30.481+0530] {processor.py:753} INFO - DAG(s) dict_keys(['Lead_Scoring_Data_Engineering_Pipeline']) retrieved from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T15:32:30.491+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:32:30.491+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T15:32:30.503+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:32:30.503+0530] {dag.py:3452} INFO - Setting next_dagrun for Lead_Scoring_Data_Engineering_Pipeline to 2023-04-16T00:00:00+00:00, run_after=2023-04-17T00:00:00+00:00
+[2023-04-16T15:32:30.771+0530] {processor.py:175} INFO - Processing /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py took 0.487 seconds
+[2023-04-16T15:33:34.642+0530] {processor.py:153} INFO - Started process (PID=126544) to work on /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T15:33:34.644+0530] {processor.py:743} INFO - Processing file /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py for tasks to queue
+[2023-04-16T15:33:34.644+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:33:34.644+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T15:33:34.691+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:33:34.691+0530] {utils.py:148} INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2023-04-16T15:33:34.691+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:33:34.691+0530] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2023-04-16T15:33:34.799+0530] {processor.py:753} INFO - DAG(s) dict_keys(['Lead_Scoring_Data_Engineering_Pipeline']) retrieved from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T15:33:34.808+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:33:34.808+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T15:33:34.820+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:33:34.820+0530] {dag.py:3452} INFO - Setting next_dagrun for Lead_Scoring_Data_Engineering_Pipeline to 2023-04-16T00:00:00+00:00, run_after=2023-04-17T00:00:00+00:00
+[2023-04-16T15:33:35.051+0530] {processor.py:175} INFO - Processing /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py took 0.410 seconds
+[2023-04-16T15:34:12.437+0530] {processor.py:153} INFO - Started process (PID=126614) to work on /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T15:34:12.441+0530] {processor.py:743} INFO - Processing file /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py for tasks to queue
+[2023-04-16T15:34:12.441+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:34:12.441+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T15:34:12.505+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:34:12.505+0530] {utils.py:148} INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2023-04-16T15:34:12.505+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:34:12.505+0530] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2023-04-16T15:34:12.614+0530] {processor.py:753} INFO - DAG(s) dict_keys(['Lead_Scoring_Data_Engineering_Pipeline']) retrieved from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T15:34:12.624+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:34:12.624+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T15:34:12.636+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:34:12.636+0530] {dag.py:3452} INFO - Setting next_dagrun for Lead_Scoring_Data_Engineering_Pipeline to 2023-04-16T00:00:00+00:00, run_after=2023-04-17T00:00:00+00:00
+[2023-04-16T15:34:13.431+0530] {processor.py:175} INFO - Processing /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py took 0.995 seconds
+[2023-04-16T15:34:54.033+0530] {processor.py:153} INFO - Started process (PID=126779) to work on /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T15:34:54.034+0530] {processor.py:743} INFO - Processing file /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py for tasks to queue
+[2023-04-16T15:34:54.035+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:34:54.035+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T15:34:54.082+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:34:54.082+0530] {utils.py:148} INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2023-04-16T15:34:54.082+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:34:54.082+0530] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2023-04-16T15:34:54.195+0530] {processor.py:753} INFO - DAG(s) dict_keys(['Lead_Scoring_Data_Engineering_Pipeline']) retrieved from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T15:34:54.206+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:34:54.205+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T15:34:54.217+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:34:54.217+0530] {dag.py:3452} INFO - Setting next_dagrun for Lead_Scoring_Data_Engineering_Pipeline to 2023-04-16T00:00:00+00:00, run_after=2023-04-17T00:00:00+00:00
+[2023-04-16T15:34:55.162+0530] {processor.py:175} INFO - Processing /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py took 1.131 seconds
+[2023-04-16T15:35:32.560+0530] {processor.py:153} INFO - Started process (PID=126858) to work on /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T15:35:32.562+0530] {processor.py:743} INFO - Processing file /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py for tasks to queue
+[2023-04-16T15:35:32.563+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:35:32.562+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T15:35:32.622+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:35:32.622+0530] {utils.py:148} INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2023-04-16T15:35:32.622+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:35:32.622+0530] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2023-04-16T15:35:32.738+0530] {processor.py:753} INFO - DAG(s) dict_keys(['Lead_Scoring_Data_Engineering_Pipeline']) retrieved from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T15:35:32.748+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:35:32.748+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T15:35:32.760+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:35:32.760+0530] {dag.py:3452} INFO - Setting next_dagrun for Lead_Scoring_Data_Engineering_Pipeline to 2023-04-16T00:00:00+00:00, run_after=2023-04-17T00:00:00+00:00
+[2023-04-16T15:35:33.435+0530] {processor.py:175} INFO - Processing /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py took 0.877 seconds
+[2023-04-16T15:40:48.319+0530] {processor.py:153} INFO - Started process (PID=127551) to work on /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T15:40:48.325+0530] {processor.py:743} INFO - Processing file /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py for tasks to queue
+[2023-04-16T15:40:48.326+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:40:48.325+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T15:40:48.371+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:40:48.370+0530] {utils.py:148} INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2023-04-16T15:40:48.371+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:40:48.371+0530] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2023-04-16T15:40:48.483+0530] {processor.py:753} INFO - DAG(s) dict_keys(['Lead_Scoring_Data_Engineering_Pipeline']) retrieved from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T15:40:48.487+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:40:48.487+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T15:40:48.500+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:40:48.500+0530] {dag.py:3452} INFO - Setting next_dagrun for Lead_Scoring_Data_Engineering_Pipeline to 2023-04-16T00:00:00+00:00, run_after=2023-04-17T00:00:00+00:00
+[2023-04-16T15:40:48.528+0530] {processor.py:175} INFO - Processing /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py took 0.210 seconds
+[2023-04-16T15:41:19.709+0530] {processor.py:153} INFO - Started process (PID=127641) to work on /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T15:41:19.711+0530] {processor.py:743} INFO - Processing file /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py for tasks to queue
+[2023-04-16T15:41:19.711+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:41:19.711+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T15:41:19.774+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:41:19.774+0530] {utils.py:148} INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2023-04-16T15:41:19.775+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:41:19.774+0530] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2023-04-16T15:41:19.877+0530] {processor.py:753} INFO - DAG(s) dict_keys(['Lead_Scoring_Data_Engineering_Pipeline']) retrieved from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T15:41:19.886+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:41:19.886+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T15:41:19.896+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:41:19.896+0530] {dag.py:3452} INFO - Setting next_dagrun for Lead_Scoring_Data_Engineering_Pipeline to 2023-04-16T00:00:00+00:00, run_after=2023-04-17T00:00:00+00:00
+[2023-04-16T15:41:19.914+0530] {processor.py:175} INFO - Processing /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py took 0.207 seconds
+[2023-04-16T15:41:50.830+0530] {processor.py:153} INFO - Started process (PID=127752) to work on /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T15:41:50.832+0530] {processor.py:743} INFO - Processing file /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py for tasks to queue
+[2023-04-16T15:41:50.832+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:41:50.832+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T15:41:50.884+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:41:50.883+0530] {utils.py:148} INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2023-04-16T15:41:50.884+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:41:50.884+0530] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2023-04-16T15:41:50.988+0530] {processor.py:753} INFO - DAG(s) dict_keys(['Lead_Scoring_Data_Engineering_Pipeline']) retrieved from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T15:41:50.998+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:41:50.997+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T15:41:51.008+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:41:51.008+0530] {dag.py:3452} INFO - Setting next_dagrun for Lead_Scoring_Data_Engineering_Pipeline to 2023-04-16T00:00:00+00:00, run_after=2023-04-17T00:00:00+00:00
+[2023-04-16T15:41:51.030+0530] {processor.py:175} INFO - Processing /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py took 0.202 seconds
+[2023-04-16T21:43:29.464+0530] {processor.py:153} INFO - Started process (PID=38811) to work on /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T21:43:29.466+0530] {processor.py:743} INFO - Processing file /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py for tasks to queue
+[2023-04-16T21:43:29.466+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:43:29.466+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T21:43:29.537+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:43:29.537+0530] {utils.py:148} INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2023-04-16T21:43:29.537+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:43:29.537+0530] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2023-04-16T21:43:29.644+0530] {processor.py:753} INFO - DAG(s) dict_keys(['Lead_Scoring_Data_Engineering_Pipeline']) retrieved from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T21:43:29.654+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:43:29.654+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T21:43:29.665+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:43:29.665+0530] {dag.py:3452} INFO - Setting next_dagrun for Lead_Scoring_Data_Engineering_Pipeline to 2023-04-16T00:00:00+00:00, run_after=2023-04-17T00:00:00+00:00
+[2023-04-16T21:43:29.700+0530] {processor.py:175} INFO - Processing /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py took 0.239 seconds
+[2023-04-16T21:44:11.955+0530] {processor.py:153} INFO - Started process (PID=38947) to work on /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T21:44:11.957+0530] {processor.py:743} INFO - Processing file /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py for tasks to queue
+[2023-04-16T21:44:11.957+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:44:11.957+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T21:44:12.014+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:44:12.014+0530] {utils.py:148} INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2023-04-16T21:44:12.014+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:44:12.014+0530] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2023-04-16T21:44:12.124+0530] {processor.py:753} INFO - DAG(s) dict_keys(['Lead_Scoring_Data_Engineering_Pipeline']) retrieved from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T21:44:12.133+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:44:12.133+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T21:44:12.144+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:44:12.144+0530] {dag.py:3452} INFO - Setting next_dagrun for Lead_Scoring_Data_Engineering_Pipeline to 2023-04-16T00:00:00+00:00, run_after=2023-04-17T00:00:00+00:00
+[2023-04-16T21:44:12.179+0530] {processor.py:175} INFO - Processing /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py took 0.226 seconds
+[2023-04-16T21:44:51.632+0530] {processor.py:153} INFO - Started process (PID=39066) to work on /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T21:44:51.633+0530] {processor.py:743} INFO - Processing file /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py for tasks to queue
+[2023-04-16T21:44:51.634+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:44:51.634+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T21:44:51.678+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:44:51.678+0530] {utils.py:148} INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2023-04-16T21:44:51.678+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:44:51.678+0530] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2023-04-16T21:44:51.780+0530] {processor.py:753} INFO - DAG(s) dict_keys(['Lead_Scoring_Data_Engineering_Pipeline']) retrieved from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T21:44:51.789+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:44:51.789+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T21:44:51.800+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:44:51.800+0530] {dag.py:3452} INFO - Setting next_dagrun for Lead_Scoring_Data_Engineering_Pipeline to 2023-04-16T00:00:00+00:00, run_after=2023-04-17T00:00:00+00:00
+[2023-04-16T21:44:51.832+0530] {processor.py:175} INFO - Processing /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py took 0.202 seconds
+[2023-04-16T21:45:32.738+0530] {processor.py:153} INFO - Started process (PID=39184) to work on /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T21:45:32.739+0530] {processor.py:743} INFO - Processing file /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py for tasks to queue
+[2023-04-16T21:45:32.740+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:45:32.740+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T21:45:32.799+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:45:32.799+0530] {utils.py:148} INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2023-04-16T21:45:32.799+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:45:32.799+0530] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2023-04-16T21:45:32.906+0530] {processor.py:753} INFO - DAG(s) dict_keys(['Lead_Scoring_Data_Engineering_Pipeline']) retrieved from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T21:45:32.915+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:45:32.915+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T21:45:32.926+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:45:32.926+0530] {dag.py:3452} INFO - Setting next_dagrun for Lead_Scoring_Data_Engineering_Pipeline to 2023-04-16T00:00:00+00:00, run_after=2023-04-17T00:00:00+00:00
+[2023-04-16T21:45:33.044+0530] {processor.py:175} INFO - Processing /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py took 0.308 seconds
+[2023-04-16T21:46:18.386+0530] {processor.py:153} INFO - Started process (PID=39369) to work on /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T21:46:18.388+0530] {processor.py:743} INFO - Processing file /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py for tasks to queue
+[2023-04-16T21:46:18.388+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:46:18.388+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T21:46:18.450+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:46:18.450+0530] {utils.py:148} INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2023-04-16T21:46:18.450+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:46:18.450+0530] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2023-04-16T21:46:18.555+0530] {processor.py:753} INFO - DAG(s) dict_keys(['Lead_Scoring_Data_Engineering_Pipeline']) retrieved from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T21:46:18.564+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:46:18.564+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T21:46:18.575+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:46:18.575+0530] {dag.py:3452} INFO - Setting next_dagrun for Lead_Scoring_Data_Engineering_Pipeline to 2023-04-16T00:00:00+00:00, run_after=2023-04-17T00:00:00+00:00
+[2023-04-16T21:46:18.617+0530] {processor.py:175} INFO - Processing /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py took 0.233 seconds
+[2023-04-16T21:46:57.070+0530] {processor.py:153} INFO - Started process (PID=39500) to work on /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T21:46:57.071+0530] {processor.py:743} INFO - Processing file /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py for tasks to queue
+[2023-04-16T21:46:57.072+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:46:57.072+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T21:46:57.143+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:46:57.143+0530] {utils.py:148} INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2023-04-16T21:46:57.143+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:46:57.143+0530] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2023-04-16T21:46:57.257+0530] {processor.py:753} INFO - DAG(s) dict_keys(['Lead_Scoring_Data_Engineering_Pipeline']) retrieved from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T21:46:57.267+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:46:57.267+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T21:46:57.279+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:46:57.279+0530] {dag.py:3452} INFO - Setting next_dagrun for Lead_Scoring_Data_Engineering_Pipeline to 2023-04-16T00:00:00+00:00, run_after=2023-04-17T00:00:00+00:00
+[2023-04-16T21:46:57.305+0530] {processor.py:175} INFO - Processing /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py took 0.237 seconds
+[2023-04-16T21:47:37.516+0530] {processor.py:153} INFO - Started process (PID=39656) to work on /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T21:47:37.518+0530] {processor.py:743} INFO - Processing file /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py for tasks to queue
+[2023-04-16T21:47:37.518+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:47:37.518+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T21:47:37.566+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:47:37.566+0530] {utils.py:148} INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2023-04-16T21:47:37.566+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:47:37.566+0530] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2023-04-16T21:47:37.677+0530] {processor.py:753} INFO - DAG(s) dict_keys(['Lead_Scoring_Data_Engineering_Pipeline']) retrieved from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T21:47:37.687+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:47:37.687+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T21:47:37.699+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:47:37.699+0530] {dag.py:3452} INFO - Setting next_dagrun for Lead_Scoring_Data_Engineering_Pipeline to 2023-04-16T00:00:00+00:00, run_after=2023-04-17T00:00:00+00:00
+[2023-04-16T21:47:38.418+0530] {processor.py:175} INFO - Processing /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py took 0.903 seconds
+[2023-04-16T21:48:27.829+0530] {processor.py:153} INFO - Started process (PID=39825) to work on /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T21:48:27.838+0530] {processor.py:743} INFO - Processing file /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py for tasks to queue
+[2023-04-16T21:48:27.839+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:48:27.838+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T21:48:27.886+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:48:27.886+0530] {utils.py:148} INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2023-04-16T21:48:27.886+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:48:27.886+0530] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2023-04-16T21:48:28.001+0530] {processor.py:753} INFO - DAG(s) dict_keys(['Lead_Scoring_Data_Engineering_Pipeline']) retrieved from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T21:48:28.013+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:48:28.013+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T21:48:28.105+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:48:28.105+0530] {dag.py:3452} INFO - Setting next_dagrun for Lead_Scoring_Data_Engineering_Pipeline to 2023-04-16T00:00:00+00:00, run_after=2023-04-17T00:00:00+00:00
+[2023-04-16T21:48:28.238+0530] {processor.py:175} INFO - Processing /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py took 0.410 seconds
+[2023-04-16T21:49:08.273+0530] {processor.py:153} INFO - Started process (PID=39940) to work on /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T21:49:08.274+0530] {processor.py:743} INFO - Processing file /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py for tasks to queue
+[2023-04-16T21:49:08.275+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:49:08.274+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T21:49:08.322+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:49:08.322+0530] {utils.py:148} INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2023-04-16T21:49:08.322+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:49:08.322+0530] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2023-04-16T21:49:08.427+0530] {processor.py:753} INFO - DAG(s) dict_keys(['Lead_Scoring_Data_Engineering_Pipeline']) retrieved from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T21:49:08.436+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:49:08.436+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T21:49:08.447+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:49:08.446+0530] {dag.py:3452} INFO - Setting next_dagrun for Lead_Scoring_Data_Engineering_Pipeline to 2023-04-16T00:00:00+00:00, run_after=2023-04-17T00:00:00+00:00
+[2023-04-16T21:49:09.062+0530] {processor.py:175} INFO - Processing /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py took 0.790 seconds
+[2023-04-16T21:49:46.257+0530] {processor.py:153} INFO - Started process (PID=40072) to work on /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T21:49:46.258+0530] {processor.py:743} INFO - Processing file /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py for tasks to queue
+[2023-04-16T21:49:46.259+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:49:46.259+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T21:49:46.304+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:49:46.304+0530] {utils.py:148} INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2023-04-16T21:49:46.304+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:49:46.304+0530] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2023-04-16T21:49:46.410+0530] {processor.py:753} INFO - DAG(s) dict_keys(['Lead_Scoring_Data_Engineering_Pipeline']) retrieved from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T21:49:46.420+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:49:46.420+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T21:49:46.430+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:49:46.430+0530] {dag.py:3452} INFO - Setting next_dagrun for Lead_Scoring_Data_Engineering_Pipeline to 2023-04-16T00:00:00+00:00, run_after=2023-04-17T00:00:00+00:00
+[2023-04-16T21:49:46.465+0530] {processor.py:175} INFO - Processing /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py took 0.210 seconds
+[2023-04-16T21:50:23.811+0530] {processor.py:153} INFO - Started process (PID=40195) to work on /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T21:50:23.812+0530] {processor.py:743} INFO - Processing file /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py for tasks to queue
+[2023-04-16T21:50:23.813+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:50:23.813+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T21:50:23.874+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:50:23.874+0530] {utils.py:148} INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2023-04-16T21:50:23.874+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:50:23.874+0530] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2023-04-16T21:50:23.979+0530] {processor.py:753} INFO - DAG(s) dict_keys(['Lead_Scoring_Data_Engineering_Pipeline']) retrieved from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T21:50:23.988+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:50:23.988+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T21:50:23.999+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:50:23.999+0530] {dag.py:3452} INFO - Setting next_dagrun for Lead_Scoring_Data_Engineering_Pipeline to 2023-04-16T00:00:00+00:00, run_after=2023-04-17T00:00:00+00:00
+[2023-04-16T21:50:24.103+0530] {processor.py:175} INFO - Processing /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py took 0.294 seconds
+[2023-04-16T21:51:04.796+0530] {processor.py:153} INFO - Started process (PID=40343) to work on /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T21:51:04.798+0530] {processor.py:743} INFO - Processing file /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py for tasks to queue
+[2023-04-16T21:51:04.798+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:51:04.798+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T21:51:04.860+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:51:04.860+0530] {utils.py:148} INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2023-04-16T21:51:04.860+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:51:04.860+0530] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2023-04-16T21:51:04.963+0530] {processor.py:753} INFO - DAG(s) dict_keys(['Lead_Scoring_Data_Engineering_Pipeline']) retrieved from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T21:51:04.972+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:51:04.972+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T21:51:04.982+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:51:04.982+0530] {dag.py:3452} INFO - Setting next_dagrun for Lead_Scoring_Data_Engineering_Pipeline to 2023-04-16T00:00:00+00:00, run_after=2023-04-17T00:00:00+00:00
+[2023-04-16T21:51:05.014+0530] {processor.py:175} INFO - Processing /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py took 0.220 seconds
+[2023-04-16T21:51:47.073+0530] {processor.py:153} INFO - Started process (PID=40482) to work on /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T21:51:47.075+0530] {processor.py:743} INFO - Processing file /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py for tasks to queue
+[2023-04-16T21:51:47.075+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:51:47.075+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T21:51:47.135+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:51:47.135+0530] {utils.py:148} INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2023-04-16T21:51:47.136+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:51:47.136+0530] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2023-04-16T21:51:47.239+0530] {processor.py:753} INFO - DAG(s) dict_keys(['Lead_Scoring_Data_Engineering_Pipeline']) retrieved from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T21:51:47.248+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:51:47.248+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T21:51:47.259+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:51:47.259+0530] {dag.py:3452} INFO - Setting next_dagrun for Lead_Scoring_Data_Engineering_Pipeline to 2023-04-16T00:00:00+00:00, run_after=2023-04-17T00:00:00+00:00
+[2023-04-16T21:51:47.276+0530] {processor.py:175} INFO - Processing /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py took 0.205 seconds
+[2023-04-16T21:52:27.580+0530] {processor.py:153} INFO - Started process (PID=40625) to work on /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T21:52:27.581+0530] {processor.py:743} INFO - Processing file /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py for tasks to queue
+[2023-04-16T21:52:27.582+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:52:27.582+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T21:52:27.648+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:52:27.648+0530] {utils.py:148} INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2023-04-16T21:52:27.649+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:52:27.649+0530] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2023-04-16T21:52:27.754+0530] {processor.py:753} INFO - DAG(s) dict_keys(['Lead_Scoring_Data_Engineering_Pipeline']) retrieved from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T21:52:27.765+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:52:27.765+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T21:52:27.776+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:52:27.776+0530] {dag.py:3452} INFO - Setting next_dagrun for Lead_Scoring_Data_Engineering_Pipeline to 2023-04-16T00:00:00+00:00, run_after=2023-04-17T00:00:00+00:00
+[2023-04-16T21:52:28.545+0530] {processor.py:175} INFO - Processing /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py took 0.967 seconds
+[2023-04-16T21:53:21.455+0530] {processor.py:153} INFO - Started process (PID=40827) to work on /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T21:53:21.457+0530] {processor.py:743} INFO - Processing file /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py for tasks to queue
+[2023-04-16T21:53:21.458+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:53:21.458+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T21:53:21.520+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:53:21.520+0530] {utils.py:148} INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2023-04-16T21:53:21.520+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:53:21.520+0530] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2023-04-16T21:53:21.620+0530] {processor.py:753} INFO - DAG(s) dict_keys(['Lead_Scoring_Data_Engineering_Pipeline']) retrieved from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T21:53:21.629+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:53:21.629+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T21:53:21.640+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:53:21.640+0530] {dag.py:3452} INFO - Setting next_dagrun for Lead_Scoring_Data_Engineering_Pipeline to 2023-04-16T00:00:00+00:00, run_after=2023-04-17T00:00:00+00:00
+[2023-04-16T21:53:22.222+0530] {processor.py:175} INFO - Processing /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py took 0.769 seconds
+[2023-04-16T21:53:58.868+0530] {processor.py:153} INFO - Started process (PID=41003) to work on /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T21:53:58.869+0530] {processor.py:743} INFO - Processing file /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py for tasks to queue
+[2023-04-16T21:53:58.870+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:53:58.870+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T21:53:58.930+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:53:58.930+0530] {utils.py:148} INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2023-04-16T21:53:58.931+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:53:58.931+0530] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2023-04-16T21:53:59.030+0530] {processor.py:753} INFO - DAG(s) dict_keys(['Lead_Scoring_Data_Engineering_Pipeline']) retrieved from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T21:53:59.039+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:53:59.039+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T21:53:59.049+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:53:59.049+0530] {dag.py:3452} INFO - Setting next_dagrun for Lead_Scoring_Data_Engineering_Pipeline to 2023-04-16T00:00:00+00:00, run_after=2023-04-17T00:00:00+00:00
+[2023-04-16T21:53:59.082+0530] {processor.py:175} INFO - Processing /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py took 0.217 seconds
+[2023-04-16T21:54:36.035+0530] {processor.py:153} INFO - Started process (PID=41125) to work on /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T21:54:36.037+0530] {processor.py:743} INFO - Processing file /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py for tasks to queue
+[2023-04-16T21:54:36.037+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:54:36.037+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T21:54:36.081+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:54:36.081+0530] {utils.py:148} INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2023-04-16T21:54:36.081+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:54:36.081+0530] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2023-04-16T21:54:36.184+0530] {processor.py:753} INFO - DAG(s) dict_keys(['Lead_Scoring_Data_Engineering_Pipeline']) retrieved from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T21:54:36.193+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:54:36.193+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T21:54:36.204+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:54:36.204+0530] {dag.py:3452} INFO - Setting next_dagrun for Lead_Scoring_Data_Engineering_Pipeline to 2023-04-16T00:00:00+00:00, run_after=2023-04-17T00:00:00+00:00
+[2023-04-16T21:54:36.296+0530] {processor.py:175} INFO - Processing /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py took 0.262 seconds
+[2023-04-16T21:55:16.402+0530] {processor.py:153} INFO - Started process (PID=41260) to work on /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T21:55:16.403+0530] {processor.py:743} INFO - Processing file /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py for tasks to queue
+[2023-04-16T21:55:16.404+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:55:16.404+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T21:55:16.448+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:55:16.448+0530] {utils.py:148} INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2023-04-16T21:55:16.448+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:55:16.448+0530] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2023-04-16T21:55:16.555+0530] {processor.py:753} INFO - DAG(s) dict_keys(['Lead_Scoring_Data_Engineering_Pipeline']) retrieved from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T21:55:16.565+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:55:16.564+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T21:55:16.576+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:55:16.576+0530] {dag.py:3452} INFO - Setting next_dagrun for Lead_Scoring_Data_Engineering_Pipeline to 2023-04-16T00:00:00+00:00, run_after=2023-04-17T00:00:00+00:00
+[2023-04-16T21:55:16.638+0530] {processor.py:175} INFO - Processing /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py took 0.237 seconds
+[2023-04-16T21:55:54.108+0530] {processor.py:153} INFO - Started process (PID=41397) to work on /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T21:55:54.111+0530] {processor.py:743} INFO - Processing file /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py for tasks to queue
+[2023-04-16T21:55:54.112+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:55:54.111+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T21:55:54.174+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:55:54.174+0530] {utils.py:148} INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2023-04-16T21:55:54.174+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:55:54.174+0530] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2023-04-16T21:55:54.274+0530] {processor.py:753} INFO - DAG(s) dict_keys(['Lead_Scoring_Data_Engineering_Pipeline']) retrieved from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T21:55:54.283+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:55:54.283+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T21:55:54.295+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:55:54.295+0530] {dag.py:3452} INFO - Setting next_dagrun for Lead_Scoring_Data_Engineering_Pipeline to 2023-04-16T00:00:00+00:00, run_after=2023-04-17T00:00:00+00:00
+[2023-04-16T21:55:54.324+0530] {processor.py:175} INFO - Processing /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py took 0.218 seconds
+[2023-04-16T21:56:31.554+0530] {processor.py:153} INFO - Started process (PID=41517) to work on /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T21:56:31.556+0530] {processor.py:743} INFO - Processing file /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py for tasks to queue
+[2023-04-16T21:56:31.556+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:56:31.556+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T21:56:31.620+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:56:31.620+0530] {utils.py:148} INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2023-04-16T21:56:31.620+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:56:31.620+0530] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2023-04-16T21:56:31.728+0530] {processor.py:753} INFO - DAG(s) dict_keys(['Lead_Scoring_Data_Engineering_Pipeline']) retrieved from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T21:56:31.738+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:56:31.738+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T21:56:31.749+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:56:31.749+0530] {dag.py:3452} INFO - Setting next_dagrun for Lead_Scoring_Data_Engineering_Pipeline to 2023-04-16T00:00:00+00:00, run_after=2023-04-17T00:00:00+00:00
+[2023-04-16T21:56:31.782+0530] {processor.py:175} INFO - Processing /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py took 0.230 seconds
+[2023-04-16T21:57:10.404+0530] {processor.py:153} INFO - Started process (PID=41709) to work on /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T21:57:10.405+0530] {processor.py:743} INFO - Processing file /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py for tasks to queue
+[2023-04-16T21:57:10.406+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:57:10.406+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T21:57:10.467+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:57:10.467+0530] {utils.py:148} INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2023-04-16T21:57:10.467+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:57:10.467+0530] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2023-04-16T21:57:10.567+0530] {processor.py:753} INFO - DAG(s) dict_keys(['Lead_Scoring_Data_Engineering_Pipeline']) retrieved from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T21:57:10.577+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:57:10.577+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T21:57:10.587+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:57:10.587+0530] {dag.py:3452} INFO - Setting next_dagrun for Lead_Scoring_Data_Engineering_Pipeline to 2023-04-16T00:00:00+00:00, run_after=2023-04-17T00:00:00+00:00
+[2023-04-16T21:57:11.040+0530] {processor.py:175} INFO - Processing /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py took 0.639 seconds
+[2023-04-16T21:57:47.321+0530] {processor.py:153} INFO - Started process (PID=41869) to work on /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T21:57:47.323+0530] {processor.py:743} INFO - Processing file /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py for tasks to queue
+[2023-04-16T21:57:47.323+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:57:47.323+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T21:57:47.384+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:57:47.384+0530] {utils.py:148} INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2023-04-16T21:57:47.385+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:57:47.385+0530] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2023-04-16T21:57:47.490+0530] {processor.py:753} INFO - DAG(s) dict_keys(['Lead_Scoring_Data_Engineering_Pipeline']) retrieved from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T21:57:47.499+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:57:47.499+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T21:57:47.510+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:57:47.510+0530] {dag.py:3452} INFO - Setting next_dagrun for Lead_Scoring_Data_Engineering_Pipeline to 2023-04-16T00:00:00+00:00, run_after=2023-04-17T00:00:00+00:00
+[2023-04-16T21:57:47.540+0530] {processor.py:175} INFO - Processing /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py took 0.221 seconds
+[2023-04-16T21:58:25.936+0530] {processor.py:153} INFO - Started process (PID=41991) to work on /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T21:58:25.938+0530] {processor.py:743} INFO - Processing file /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py for tasks to queue
+[2023-04-16T21:58:25.938+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:58:25.938+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T21:58:25.982+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:58:25.982+0530] {utils.py:148} INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2023-04-16T21:58:25.982+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:58:25.982+0530] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2023-04-16T21:58:26.089+0530] {processor.py:753} INFO - DAG(s) dict_keys(['Lead_Scoring_Data_Engineering_Pipeline']) retrieved from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T21:58:26.099+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:58:26.099+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T21:58:26.110+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:58:26.110+0530] {dag.py:3452} INFO - Setting next_dagrun for Lead_Scoring_Data_Engineering_Pipeline to 2023-04-16T00:00:00+00:00, run_after=2023-04-17T00:00:00+00:00
+[2023-04-16T21:58:26.213+0530] {processor.py:175} INFO - Processing /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py took 0.278 seconds
+[2023-04-16T21:59:08.985+0530] {processor.py:153} INFO - Started process (PID=42190) to work on /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T21:59:08.987+0530] {processor.py:743} INFO - Processing file /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py for tasks to queue
+[2023-04-16T21:59:08.987+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:59:08.987+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T21:59:09.051+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:59:09.051+0530] {utils.py:148} INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2023-04-16T21:59:09.051+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:59:09.051+0530] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2023-04-16T21:59:09.157+0530] {processor.py:753} INFO - DAG(s) dict_keys(['Lead_Scoring_Data_Engineering_Pipeline']) retrieved from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T21:59:09.167+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:59:09.166+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T21:59:09.261+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:59:09.260+0530] {dag.py:3452} INFO - Setting next_dagrun for Lead_Scoring_Data_Engineering_Pipeline to 2023-04-16T00:00:00+00:00, run_after=2023-04-17T00:00:00+00:00
+[2023-04-16T21:59:09.672+0530] {processor.py:175} INFO - Processing /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py took 0.689 seconds
+[2023-04-16T21:59:46.292+0530] {processor.py:153} INFO - Started process (PID=42311) to work on /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T21:59:46.294+0530] {processor.py:743} INFO - Processing file /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py for tasks to queue
+[2023-04-16T21:59:46.294+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:59:46.294+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T21:59:46.357+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:59:46.357+0530] {utils.py:148} INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2023-04-16T21:59:46.357+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:59:46.357+0530] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2023-04-16T21:59:46.463+0530] {processor.py:753} INFO - DAG(s) dict_keys(['Lead_Scoring_Data_Engineering_Pipeline']) retrieved from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T21:59:46.473+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:59:46.473+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T21:59:46.484+0530] {logging_mixin.py:137} INFO - [2023-04-16T21:59:46.484+0530] {dag.py:3452} INFO - Setting next_dagrun for Lead_Scoring_Data_Engineering_Pipeline to 2023-04-16T00:00:00+00:00, run_after=2023-04-17T00:00:00+00:00
+[2023-04-16T21:59:47.363+0530] {processor.py:175} INFO - Processing /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py took 1.072 seconds
+[2023-04-16T22:00:25.792+0530] {processor.py:153} INFO - Started process (PID=42430) to work on /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T22:00:25.794+0530] {processor.py:743} INFO - Processing file /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py for tasks to queue
+[2023-04-16T22:00:25.794+0530] {logging_mixin.py:137} INFO - [2023-04-16T22:00:25.794+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T22:00:25.857+0530] {logging_mixin.py:137} INFO - [2023-04-16T22:00:25.857+0530] {utils.py:148} INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2023-04-16T22:00:25.857+0530] {logging_mixin.py:137} INFO - [2023-04-16T22:00:25.857+0530] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2023-04-16T22:00:25.966+0530] {processor.py:753} INFO - DAG(s) dict_keys(['Lead_Scoring_Data_Engineering_Pipeline']) retrieved from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T22:00:25.976+0530] {logging_mixin.py:137} INFO - [2023-04-16T22:00:25.976+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T22:00:25.988+0530] {logging_mixin.py:137} INFO - [2023-04-16T22:00:25.987+0530] {dag.py:3452} INFO - Setting next_dagrun for Lead_Scoring_Data_Engineering_Pipeline to 2023-04-16T00:00:00+00:00, run_after=2023-04-17T00:00:00+00:00
+[2023-04-16T22:00:26.006+0530] {processor.py:175} INFO - Processing /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py took 0.215 seconds
+[2023-04-16T22:01:06.717+0530] {processor.py:153} INFO - Started process (PID=42575) to work on /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T22:01:06.719+0530] {processor.py:743} INFO - Processing file /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py for tasks to queue
+[2023-04-16T22:01:06.720+0530] {logging_mixin.py:137} INFO - [2023-04-16T22:01:06.720+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T22:01:06.784+0530] {logging_mixin.py:137} INFO - [2023-04-16T22:01:06.784+0530] {utils.py:148} INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2023-04-16T22:01:06.784+0530] {logging_mixin.py:137} INFO - [2023-04-16T22:01:06.784+0530] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2023-04-16T22:01:06.893+0530] {processor.py:753} INFO - DAG(s) dict_keys(['Lead_Scoring_Data_Engineering_Pipeline']) retrieved from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T22:01:06.904+0530] {logging_mixin.py:137} INFO - [2023-04-16T22:01:06.904+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T22:01:06.915+0530] {logging_mixin.py:137} INFO - [2023-04-16T22:01:06.915+0530] {dag.py:3452} INFO - Setting next_dagrun for Lead_Scoring_Data_Engineering_Pipeline to 2023-04-16T00:00:00+00:00, run_after=2023-04-17T00:00:00+00:00
+[2023-04-16T22:01:06.948+0530] {processor.py:175} INFO - Processing /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py took 0.233 seconds
+[2023-04-16T22:01:46.129+0530] {processor.py:153} INFO - Started process (PID=42703) to work on /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T22:01:46.131+0530] {processor.py:743} INFO - Processing file /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py for tasks to queue
+[2023-04-16T22:01:46.132+0530] {logging_mixin.py:137} INFO - [2023-04-16T22:01:46.132+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T22:01:46.195+0530] {logging_mixin.py:137} INFO - [2023-04-16T22:01:46.195+0530] {utils.py:148} INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2023-04-16T22:01:46.196+0530] {logging_mixin.py:137} INFO - [2023-04-16T22:01:46.195+0530] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2023-04-16T22:01:46.301+0530] {processor.py:753} INFO - DAG(s) dict_keys(['Lead_Scoring_Data_Engineering_Pipeline']) retrieved from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T22:01:46.311+0530] {logging_mixin.py:137} INFO - [2023-04-16T22:01:46.311+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T22:01:46.322+0530] {logging_mixin.py:137} INFO - [2023-04-16T22:01:46.322+0530] {dag.py:3452} INFO - Setting next_dagrun for Lead_Scoring_Data_Engineering_Pipeline to 2023-04-16T00:00:00+00:00, run_after=2023-04-17T00:00:00+00:00
+[2023-04-16T22:01:46.349+0530] {processor.py:175} INFO - Processing /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py took 0.221 seconds
+[2023-04-16T22:02:38.969+0530] {processor.py:153} INFO - Started process (PID=42887) to work on /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T22:02:39.739+0530] {processor.py:743} INFO - Processing file /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py for tasks to queue
+[2023-04-16T22:02:39.740+0530] {logging_mixin.py:137} INFO - [2023-04-16T22:02:39.740+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T22:02:39.809+0530] {logging_mixin.py:137} INFO - [2023-04-16T22:02:39.809+0530] {utils.py:148} INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2023-04-16T22:02:39.809+0530] {logging_mixin.py:137} INFO - [2023-04-16T22:02:39.809+0530] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2023-04-16T22:02:39.921+0530] {processor.py:753} INFO - DAG(s) dict_keys(['Lead_Scoring_Data_Engineering_Pipeline']) retrieved from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T22:02:39.930+0530] {logging_mixin.py:137} INFO - [2023-04-16T22:02:39.930+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T22:02:39.941+0530] {logging_mixin.py:137} INFO - [2023-04-16T22:02:39.941+0530] {dag.py:3452} INFO - Setting next_dagrun for Lead_Scoring_Data_Engineering_Pipeline to 2023-04-16T00:00:00+00:00, run_after=2023-04-17T00:00:00+00:00
+[2023-04-16T22:02:39.964+0530] {processor.py:175} INFO - Processing /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py took 0.996 seconds
+[2023-04-16T22:03:19.520+0530] {processor.py:153} INFO - Started process (PID=43044) to work on /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T22:03:19.521+0530] {processor.py:743} INFO - Processing file /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py for tasks to queue
+[2023-04-16T22:03:19.522+0530] {logging_mixin.py:137} INFO - [2023-04-16T22:03:19.522+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T22:03:19.584+0530] {logging_mixin.py:137} INFO - [2023-04-16T22:03:19.584+0530] {utils.py:148} INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2023-04-16T22:03:19.584+0530] {logging_mixin.py:137} INFO - [2023-04-16T22:03:19.584+0530] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2023-04-16T22:03:19.688+0530] {processor.py:753} INFO - DAG(s) dict_keys(['Lead_Scoring_Data_Engineering_Pipeline']) retrieved from /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py
+[2023-04-16T22:03:19.697+0530] {logging_mixin.py:137} INFO - [2023-04-16T22:03:19.697+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T22:03:19.708+0530] {logging_mixin.py:137} INFO - [2023-04-16T22:03:19.708+0530] {dag.py:3452} INFO - Setting next_dagrun for Lead_Scoring_Data_Engineering_Pipeline to 2023-04-16T00:00:00+00:00, run_after=2023-04-17T00:00:00+00:00
+[2023-04-16T22:03:19.813+0530] {processor.py:175} INFO - Processing /home/nightfall/airflow/code/dags/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py took 0.296 seconds

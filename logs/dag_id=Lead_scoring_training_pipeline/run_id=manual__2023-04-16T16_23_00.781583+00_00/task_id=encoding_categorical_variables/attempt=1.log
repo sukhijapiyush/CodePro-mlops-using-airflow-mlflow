@@ -1,0 +1,27 @@
+[2023-04-16T21:53:04.086+0530] {taskinstance.py:1090} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: Lead_scoring_training_pipeline.encoding_categorical_variables manual__2023-04-16T16:23:00.781583+00:00 [queued]>
+[2023-04-16T21:53:04.089+0530] {taskinstance.py:1090} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: Lead_scoring_training_pipeline.encoding_categorical_variables manual__2023-04-16T16:23:00.781583+00:00 [queued]>
+[2023-04-16T21:53:04.089+0530] {taskinstance.py:1288} INFO - 
+--------------------------------------------------------------------------------
+[2023-04-16T21:53:04.089+0530] {taskinstance.py:1289} INFO - Starting attempt 1 of 2
+[2023-04-16T21:53:04.089+0530] {taskinstance.py:1290} INFO - 
+--------------------------------------------------------------------------------
+[2023-04-16T21:53:04.109+0530] {taskinstance.py:1309} INFO - Executing <Task(PythonOperator): encoding_categorical_variables> on 2023-04-16 16:23:00.781583+00:00
+[2023-04-16T21:53:04.113+0530] {standard_task_runner.py:55} INFO - Started process 40758 to run task
+[2023-04-16T21:53:04.114+0530] {standard_task_runner.py:82} INFO - Running: ['airflow', 'tasks', 'run', 'Lead_scoring_training_pipeline', 'encoding_categorical_variables', 'manual__2023-04-16T16:23:00.781583+00:00', '--job-id', '22', '--raw', '--subdir', 'DAGS_FOLDER/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py', '--cfg-path', '/tmp/tmpg0cebna_']
+[2023-04-16T21:53:04.115+0530] {standard_task_runner.py:83} INFO - Job 22: Subtask encoding_categorical_variables
+[2023-04-16T21:53:04.156+0530] {task_command.py:389} INFO - Running <TaskInstance: Lead_scoring_training_pipeline.encoding_categorical_variables manual__2023-04-16T16:23:00.781583+00:00 [running]> on host pop-os.localdomain
+[2023-04-16T21:53:04.210+0530] {taskinstance.py:1516} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=Lead_scoring_training_pipeline
+AIRFLOW_CTX_TASK_ID=encoding_categorical_variables
+AIRFLOW_CTX_EXECUTION_DATE=2023-04-16T16:23:00.781583+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2023-04-16T16:23:00.781583+00:00
+[2023-04-16T21:53:04.213+0530] {logging_mixin.py:137} INFO - Loading model_input table
+[2023-04-16T21:53:04.513+0530] {logging_mixin.py:137} INFO - One hot encoding features
+[2023-04-16T21:53:05.105+0530] {logging_mixin.py:137} INFO - Storing target features to 'target' table
+[2023-04-16T21:53:06.155+0530] {logging_mixin.py:137} INFO - Storing rest of features to 'feature' table
+[2023-04-16T21:53:08.081+0530] {python.py:177} INFO - Done. Returned value was: None
+[2023-04-16T21:53:08.084+0530] {taskinstance.py:1327} INFO - Marking task as SUCCESS. dag_id=Lead_scoring_training_pipeline, task_id=encoding_categorical_variables, execution_date=20230416T162300, start_date=20230416T162304, end_date=20230416T162308
+[2023-04-16T21:53:08.118+0530] {local_task_job.py:212} INFO - Task exited with return code 0
+[2023-04-16T21:53:08.131+0530] {taskinstance.py:2596} INFO - 1 downstream tasks scheduled from follow-on schedule check

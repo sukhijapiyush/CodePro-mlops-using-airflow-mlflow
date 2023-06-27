@@ -1,0 +1,42 @@
+[2023-04-16T15:29:36.397+0530] {processor.py:153} INFO - Started process (PID=125999) to work on /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-04-16T15:29:36.398+0530] {processor.py:743} INFO - Processing file /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-04-16T15:29:36.398+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:29:36.398+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-04-16T15:29:36.417+0530] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-04-16T15:29:36.432+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:29:36.432+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T15:29:36.446+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:29:36.446+0530] {dag.py:3452} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-04-16T15:29:36.494+0530] {processor.py:175} INFO - Processing /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.099 seconds
+[2023-04-16T15:30:46.629+0530] {processor.py:153} INFO - Started process (PID=126215) to work on /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-04-16T15:30:46.631+0530] {processor.py:743} INFO - Processing file /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-04-16T15:30:46.631+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:30:46.631+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-04-16T15:30:46.645+0530] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-04-16T15:30:46.656+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:30:46.656+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T15:30:46.669+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:30:46.669+0530] {dag.py:3452} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-04-16T15:30:46.738+0530] {processor.py:175} INFO - Processing /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.112 seconds
+[2023-04-16T15:32:01.133+0530] {processor.py:153} INFO - Started process (PID=126360) to work on /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-04-16T15:32:01.134+0530] {processor.py:743} INFO - Processing file /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-04-16T15:32:01.135+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:32:01.135+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-04-16T15:32:01.146+0530] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-04-16T15:32:01.157+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:32:01.157+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T15:32:01.168+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:32:01.167+0530] {dag.py:3452} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-04-16T15:32:01.187+0530] {processor.py:175} INFO - Processing /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.055 seconds
+[2023-04-16T15:33:05.406+0530] {processor.py:153} INFO - Started process (PID=126485) to work on /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-04-16T15:33:05.412+0530] {processor.py:743} INFO - Processing file /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-04-16T15:33:05.413+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:33:05.413+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-04-16T15:33:05.434+0530] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-04-16T15:33:05.449+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:33:05.449+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T15:33:05.466+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:33:05.466+0530] {dag.py:3452} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-04-16T15:33:05.498+0530] {processor.py:175} INFO - Processing /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.094 seconds
+[2023-04-16T15:34:18.952+0530] {processor.py:153} INFO - Started process (PID=126627) to work on /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-04-16T15:34:18.953+0530] {processor.py:743} INFO - Processing file /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-04-16T15:34:18.954+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:34:18.954+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-04-16T15:34:18.970+0530] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-04-16T15:34:18.985+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:34:18.985+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T15:34:19.002+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:34:19.002+0530] {dag.py:3452} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-04-16T15:34:20.400+0530] {processor.py:175} INFO - Processing /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 1.450 seconds
+[2023-04-16T15:35:36.665+0530] {processor.py:153} INFO - Started process (PID=126872) to work on /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-04-16T15:35:36.667+0530] {processor.py:743} INFO - Processing file /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-04-16T15:35:36.667+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:35:36.667+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-04-16T15:35:36.687+0530] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-04-16T15:35:36.703+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:35:36.703+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T15:35:36.718+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:35:36.718+0530] {dag.py:3452} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-04-16T15:35:37.538+0530] {processor.py:175} INFO - Processing /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.875 seconds

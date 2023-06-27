@@ -1,0 +1,40 @@
+[2023-04-16T21:53:12.012+0530] {taskinstance.py:1090} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: Lead_scoring_training_pipeline.training_model manual__2023-04-16T16:23:00.781583+00:00 [queued]>
+[2023-04-16T21:53:12.246+0530] {taskinstance.py:1090} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: Lead_scoring_training_pipeline.training_model manual__2023-04-16T16:23:00.781583+00:00 [queued]>
+[2023-04-16T21:53:12.246+0530] {taskinstance.py:1288} INFO - 
+--------------------------------------------------------------------------------
+[2023-04-16T21:53:12.246+0530] {taskinstance.py:1289} INFO - Starting attempt 1 of 2
+[2023-04-16T21:53:12.246+0530] {taskinstance.py:1290} INFO - 
+--------------------------------------------------------------------------------
+[2023-04-16T21:53:12.286+0530] {taskinstance.py:1309} INFO - Executing <Task(PythonOperator): training_model> on 2023-04-16 16:23:00.781583+00:00
+[2023-04-16T21:53:12.292+0530] {standard_task_runner.py:55} INFO - Started process 40771 to run task
+[2023-04-16T21:53:12.293+0530] {standard_task_runner.py:82} INFO - Running: ['airflow', 'tasks', 'run', 'Lead_scoring_training_pipeline', 'training_model', 'manual__2023-04-16T16:23:00.781583+00:00', '--job-id', '23', '--raw', '--subdir', 'DAGS_FOLDER/Lead_scoring_training_pipeline/lead_scoring_training_pipeline.py', '--cfg-path', '/tmp/tmph3cpg5tf']
+[2023-04-16T21:53:12.294+0530] {standard_task_runner.py:83} INFO - Job 23: Subtask training_model
+[2023-04-16T21:53:12.347+0530] {task_command.py:389} INFO - Running <TaskInstance: Lead_scoring_training_pipeline.training_model manual__2023-04-16T16:23:00.781583+00:00 [running]> on host pop-os.localdomain
+[2023-04-16T21:53:12.410+0530] {taskinstance.py:1516} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=Lead_scoring_training_pipeline
+AIRFLOW_CTX_TASK_ID=training_model
+AIRFLOW_CTX_EXECUTION_DATE=2023-04-16T16:23:00.781583+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2023-04-16T16:23:00.781583+00:00
+[2023-04-16T21:53:12.410+0530] {logging_mixin.py:137} INFO - 2.6.0
+[2023-04-16T21:53:12.412+0530] {logging_mixin.py:137} INFO - Loading 'features' table
+[2023-04-16T21:53:14.048+0530] {logging_mixin.py:137} INFO - Loading 'target' table
+[2023-04-16T21:53:14.174+0530] {utils.py:195} INFO - Creating mlflow experiment
+[2023-04-16T21:53:14.539+0530] {logging_mixin.py:137} WARNING - /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/sklearn/preprocessing/_label.py:99 DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+[2023-04-16T21:53:14.544+0530] {logging_mixin.py:137} WARNING - /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/sklearn/preprocessing/_label.py:134 DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+[2023-04-16T21:53:14.585+0530] {logging_mixin.py:137} INFO - [LightGBM] [Warning] bagging_fraction is set=0.9776942233774311, subsample=1.0 will be ignored. Current value: bagging_fraction=0.9776942233774311
+[2023-04-16T21:53:14.585+0530] {logging_mixin.py:137} INFO - [LightGBM] [Warning] feature_fraction is set=0.7938437977336682, colsample_bytree=1.0 will be ignored. Current value: feature_fraction=0.7938437977336682
+[2023-04-16T21:53:14.585+0530] {logging_mixin.py:137} INFO - [LightGBM] [Warning] bagging_freq is set=7, subsample_freq=0 will be ignored. Current value: bagging_freq=7
+[2023-04-16T21:53:17.545+0530] {logging_mixin.py:137} WARNING - /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/_distutils_hack/__init__.py:33 UserWarning: Setuptools is replacing distutils.
+[2023-04-16T21:53:17.660+0530] {logging_mixin.py:137} WARNING - Successfully registered model 'LightGBM'.
+[2023-04-16T21:53:17.693+0530] {logging_mixin.py:137} WARNING - 2023/04/16 21:53:17 INFO mlflow.tracking._model_registry.client: Waiting up to 300 seconds for model version to finish creation.                     Model name: LightGBM, version 1
+[2023-04-16T21:53:17.693+0530] {logging_mixin.py:137} WARNING - Created version '1' of model 'LightGBM'.
+[2023-04-16T21:53:17.833+0530] {logging_mixin.py:137} INFO - Precision= 0.7409920994171489
+[2023-04-16T21:53:17.833+0530] {logging_mixin.py:137} INFO - Recall= 0.7494172865506418
+[2023-04-16T21:53:17.833+0530] {logging_mixin.py:137} INFO - AUC= 0.7494172865506418
+[2023-04-16T21:53:18.149+0530] {logging_mixin.py:137} INFO - Inside MLflow Run with id 5a33f1d674894fc0a10ce6d69ec66333
+[2023-04-16T21:53:18.182+0530] {python.py:177} INFO - Done. Returned value was: None
+[2023-04-16T21:53:18.185+0530] {taskinstance.py:1327} INFO - Marking task as SUCCESS. dag_id=Lead_scoring_training_pipeline, task_id=training_model, execution_date=20230416T162300, start_date=20230416T162312, end_date=20230416T162318
+[2023-04-16T21:53:18.241+0530] {local_task_job.py:212} INFO - Task exited with return code 0
+[2023-04-16T21:53:18.247+0530] {taskinstance.py:2596} INFO - 0 downstream tasks scheduled from follow-on schedule check

@@ -1,0 +1,42 @@
+[2023-04-16T15:30:06.988+0530] {processor.py:153} INFO - Started process (PID=126097) to work on /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-04-16T15:30:06.988+0530] {processor.py:743} INFO - Processing file /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-04-16T15:30:06.988+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:30:06.988+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-04-16T15:30:06.996+0530] {processor.py:753} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-04-16T15:30:07.006+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:30:07.006+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T15:30:07.018+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:30:07.018+0530] {dag.py:3452} INFO - Setting next_dagrun for example_skip_dag to 2023-04-15T10:00:07.018170+00:00, run_after=2023-04-16T10:00:07.018170+00:00
+[2023-04-16T15:30:08.297+0530] {processor.py:175} INFO - Processing /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 1.311 seconds
+[2023-04-16T15:31:29.067+0530] {processor.py:153} INFO - Started process (PID=126303) to work on /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-04-16T15:31:29.068+0530] {processor.py:743} INFO - Processing file /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-04-16T15:31:29.069+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:31:29.069+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-04-16T15:31:29.076+0530] {processor.py:753} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-04-16T15:31:29.086+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:31:29.086+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T15:31:29.096+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:31:29.096+0530] {dag.py:3452} INFO - Setting next_dagrun for example_skip_dag to 2023-04-15T10:01:29.096642+00:00, run_after=2023-04-16T10:01:29.096642+00:00
+[2023-04-16T15:31:29.116+0530] {processor.py:175} INFO - Processing /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.051 seconds
+[2023-04-16T15:32:33.642+0530] {processor.py:153} INFO - Started process (PID=126434) to work on /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-04-16T15:32:33.644+0530] {processor.py:743} INFO - Processing file /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-04-16T15:32:33.644+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:32:33.644+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-04-16T15:32:33.652+0530] {processor.py:753} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-04-16T15:32:33.665+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:32:33.665+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T15:32:33.677+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:32:33.677+0530] {dag.py:3452} INFO - Setting next_dagrun for example_skip_dag to 2023-04-15T10:02:33.677548+00:00, run_after=2023-04-16T10:02:33.677548+00:00
+[2023-04-16T15:32:33.700+0530] {processor.py:175} INFO - Processing /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.059 seconds
+[2023-04-16T15:33:38.781+0530] {processor.py:153} INFO - Started process (PID=126556) to work on /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-04-16T15:33:38.795+0530] {processor.py:743} INFO - Processing file /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-04-16T15:33:38.795+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:33:38.795+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-04-16T15:33:38.803+0530] {processor.py:753} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-04-16T15:33:38.814+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:33:38.814+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T15:33:38.826+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:33:38.825+0530] {dag.py:3452} INFO - Setting next_dagrun for example_skip_dag to 2023-04-15T10:03:38.825842+00:00, run_after=2023-04-16T10:03:38.825842+00:00
+[2023-04-16T15:33:39.849+0530] {processor.py:175} INFO - Processing /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 1.070 seconds
+[2023-04-16T15:35:00.366+0530] {processor.py:153} INFO - Started process (PID=126796) to work on /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-04-16T15:35:00.368+0530] {processor.py:743} INFO - Processing file /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-04-16T15:35:00.369+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:35:00.369+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-04-16T15:35:00.380+0530] {processor.py:753} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-04-16T15:35:00.399+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:35:00.399+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T15:35:00.415+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:35:00.415+0530] {dag.py:3452} INFO - Setting next_dagrun for example_skip_dag to 2023-04-15T10:05:00.414982+00:00, run_after=2023-04-16T10:05:00.414982+00:00
+[2023-04-16T15:35:01.020+0530] {processor.py:175} INFO - Processing /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.656 seconds
+[2023-04-16T15:36:12.309+0530] {processor.py:153} INFO - Started process (PID=126946) to work on /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-04-16T15:36:12.310+0530] {processor.py:743} INFO - Processing file /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-04-16T15:36:12.311+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:36:12.311+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-04-16T15:36:12.318+0530] {processor.py:753} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-04-16T15:36:12.328+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:36:12.328+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T15:36:12.342+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:36:12.342+0530] {dag.py:3452} INFO - Setting next_dagrun for example_skip_dag to 2023-04-15T10:06:12.341991+00:00, run_after=2023-04-16T10:06:12.341991+00:00
+[2023-04-16T15:36:12.366+0530] {processor.py:175} INFO - Processing /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.058 seconds

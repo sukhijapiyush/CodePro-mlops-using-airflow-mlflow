@@ -1,0 +1,25 @@
+[2023-04-16T15:30:02.577+0530] {taskinstance.py:1090} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: Lead_Scoring_Data_Engineering_Pipeline.building_db scheduled__2023-04-15T00:00:00+00:00 [queued]>
+[2023-04-16T15:30:02.581+0530] {taskinstance.py:1090} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: Lead_Scoring_Data_Engineering_Pipeline.building_db scheduled__2023-04-15T00:00:00+00:00 [queued]>
+[2023-04-16T15:30:02.581+0530] {taskinstance.py:1288} INFO - 
+--------------------------------------------------------------------------------
+[2023-04-16T15:30:02.581+0530] {taskinstance.py:1289} INFO - Starting attempt 1 of 2
+[2023-04-16T15:30:02.581+0530] {taskinstance.py:1290} INFO - 
+--------------------------------------------------------------------------------
+[2023-04-16T15:30:02.616+0530] {taskinstance.py:1309} INFO - Executing <Task(PythonOperator): building_db> on 2023-04-15 00:00:00+00:00
+[2023-04-16T15:30:02.618+0530] {standard_task_runner.py:55} INFO - Started process 126093 to run task
+[2023-04-16T15:30:02.620+0530] {standard_task_runner.py:82} INFO - Running: ['airflow', 'tasks', 'run', 'Lead_Scoring_Data_Engineering_Pipeline', 'building_db', 'scheduled__2023-04-15T00:00:00+00:00', '--job-id', '2', '--raw', '--subdir', 'DAGS_FOLDER/Lead_scoring_data_pipeline/lead_scoring_data_pipeline.py', '--cfg-path', '/tmp/tmpb_dvz88j']
+[2023-04-16T15:30:02.620+0530] {standard_task_runner.py:83} INFO - Job 2: Subtask building_db
+[2023-04-16T15:30:02.678+0530] {task_command.py:389} INFO - Running <TaskInstance: Lead_Scoring_Data_Engineering_Pipeline.building_db scheduled__2023-04-15T00:00:00+00:00 [running]> on host pop-os.localdomain
+[2023-04-16T15:30:02.758+0530] {taskinstance.py:1516} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=Lead_Scoring_Data_Engineering_Pipeline
+AIRFLOW_CTX_TASK_ID=building_db
+AIRFLOW_CTX_EXECUTION_DATE=2023-04-15T00:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2023-04-15T00:00:00+00:00
+[2023-04-16T15:30:02.759+0530] {logging_mixin.py:137} INFO - Creating Database
+[2023-04-16T15:30:02.759+0530] {logging_mixin.py:137} INFO - unable to open database file
+[2023-04-16T15:30:02.759+0530] {python.py:177} INFO - Done. Returned value was: Error creating DB /home/dags/Lead_scoring_data_pipeline/lead_scoring_data_cleaning.db
+[2023-04-16T15:30:02.796+0530] {taskinstance.py:1327} INFO - Marking task as SUCCESS. dag_id=Lead_Scoring_Data_Engineering_Pipeline, task_id=building_db, execution_date=20230415T000000, start_date=20230416T100002, end_date=20230416T100002
+[2023-04-16T15:30:03.033+0530] {local_task_job.py:212} INFO - Task exited with return code 0
+[2023-04-16T15:30:03.259+0530] {taskinstance.py:2596} INFO - 1 downstream tasks scheduled from follow-on schedule check

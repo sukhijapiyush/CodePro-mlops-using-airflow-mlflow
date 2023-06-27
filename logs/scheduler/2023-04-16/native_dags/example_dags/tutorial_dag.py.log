@@ -1,0 +1,42 @@
+[2023-04-16T15:29:40.552+0530] {processor.py:153} INFO - Started process (PID=126005) to work on /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-04-16T15:29:40.553+0530] {processor.py:743} INFO - Processing file /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-04-16T15:29:40.553+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:29:40.553+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-04-16T15:29:40.562+0530] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-04-16T15:29:40.572+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:29:40.572+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T15:29:40.586+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:29:40.586+0530] {dag.py:3452} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-04-16T15:29:40.621+0530] {processor.py:175} INFO - Processing /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.070 seconds
+[2023-04-16T15:30:53.208+0530] {processor.py:153} INFO - Started process (PID=126221) to work on /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-04-16T15:30:53.210+0530] {processor.py:743} INFO - Processing file /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-04-16T15:30:53.211+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:30:53.211+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-04-16T15:30:53.222+0530] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-04-16T15:30:53.237+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:30:53.237+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T15:30:53.254+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:30:53.254+0530] {dag.py:3452} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-04-16T15:30:53.282+0530] {processor.py:175} INFO - Processing /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.075 seconds
+[2023-04-16T15:32:07.720+0530] {processor.py:153} INFO - Started process (PID=126366) to work on /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-04-16T15:32:07.721+0530] {processor.py:743} INFO - Processing file /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-04-16T15:32:07.722+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:32:07.722+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-04-16T15:32:07.728+0530] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-04-16T15:32:07.739+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:32:07.739+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T15:32:07.749+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:32:07.749+0530] {dag.py:3452} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-04-16T15:32:07.882+0530] {processor.py:175} INFO - Processing /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.163 seconds
+[2023-04-16T15:33:09.258+0530] {processor.py:153} INFO - Started process (PID=126490) to work on /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-04-16T15:33:09.260+0530] {processor.py:743} INFO - Processing file /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-04-16T15:33:09.260+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:33:09.260+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-04-16T15:33:09.267+0530] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-04-16T15:33:09.277+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:33:09.277+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T15:33:09.288+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:33:09.288+0530] {dag.py:3452} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-04-16T15:33:10.427+0530] {processor.py:175} INFO - Processing /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 1.170 seconds
+[2023-04-16T15:34:25.152+0530] {processor.py:153} INFO - Started process (PID=126634) to work on /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-04-16T15:34:25.153+0530] {processor.py:743} INFO - Processing file /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-04-16T15:34:25.154+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:34:25.154+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-04-16T15:34:25.165+0530] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-04-16T15:34:25.181+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:34:25.181+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T15:34:25.196+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:34:25.196+0530] {dag.py:3452} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-04-16T15:34:25.231+0530] {processor.py:175} INFO - Processing /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.081 seconds
+[2023-04-16T15:35:42.308+0530] {processor.py:153} INFO - Started process (PID=126878) to work on /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-04-16T15:35:42.310+0530] {processor.py:743} INFO - Processing file /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-04-16T15:35:42.311+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:35:42.311+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-04-16T15:35:42.321+0530] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-04-16T15:35:42.336+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:35:42.336+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T15:35:42.355+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:35:42.354+0530] {dag.py:3452} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-04-16T15:35:43.284+0530] {processor.py:175} INFO - Processing /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.977 seconds

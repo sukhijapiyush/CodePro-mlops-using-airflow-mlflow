@@ -1,0 +1,42 @@
+[2023-04-16T15:29:46.819+0530] {processor.py:153} INFO - Started process (PID=126022) to work on /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-16T15:29:46.820+0530] {processor.py:743} INFO - Processing file /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-04-16T15:29:46.820+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:29:46.820+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-16T15:29:46.827+0530] {processor.py:753} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-16T15:29:46.838+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:29:46.838+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T15:29:46.849+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:29:46.849+0530] {dag.py:3452} INFO - Setting next_dagrun for latest_only to 2023-04-16T05:59:46.849447+00:00, run_after=2023-04-16T09:59:46.849447+00:00
+[2023-04-16T15:29:46.891+0530] {processor.py:175} INFO - Processing /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.073 seconds
+[2023-04-16T15:30:58.842+0530] {processor.py:153} INFO - Started process (PID=126239) to work on /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-16T15:30:58.845+0530] {processor.py:743} INFO - Processing file /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-04-16T15:30:58.846+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:30:58.846+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-16T15:30:58.853+0530] {processor.py:753} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-16T15:30:58.863+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:30:58.863+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T15:30:58.875+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:30:58.875+0530] {dag.py:3452} INFO - Setting next_dagrun for latest_only to 2023-04-16T06:00:58.875162+00:00, run_after=2023-04-16T10:00:58.875162+00:00
+[2023-04-16T15:31:00.159+0530] {processor.py:175} INFO - Processing /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 1.318 seconds
+[2023-04-16T15:32:14.329+0530] {processor.py:153} INFO - Started process (PID=126385) to work on /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-16T15:32:14.331+0530] {processor.py:743} INFO - Processing file /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-04-16T15:32:14.331+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:32:14.331+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-16T15:32:14.342+0530] {processor.py:753} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-16T15:32:14.357+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:32:14.357+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T15:32:14.375+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:32:14.375+0530] {dag.py:3452} INFO - Setting next_dagrun for latest_only to 2023-04-16T06:02:14.375059+00:00, run_after=2023-04-16T10:02:14.375059+00:00
+[2023-04-16T15:32:14.738+0530] {processor.py:175} INFO - Processing /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.411 seconds
+[2023-04-16T15:33:15.447+0530] {processor.py:153} INFO - Started process (PID=126507) to work on /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-16T15:33:15.451+0530] {processor.py:743} INFO - Processing file /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-04-16T15:33:15.451+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:33:15.451+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-16T15:33:15.459+0530] {processor.py:753} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-16T15:33:15.469+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:33:15.469+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T15:33:15.481+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:33:15.481+0530] {dag.py:3452} INFO - Setting next_dagrun for latest_only to 2023-04-16T06:03:15.481087+00:00, run_after=2023-04-16T10:03:15.481087+00:00
+[2023-04-16T15:33:15.505+0530] {processor.py:175} INFO - Processing /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.058 seconds
+[2023-04-16T15:34:30.631+0530] {processor.py:153} INFO - Started process (PID=126651) to work on /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-16T15:34:30.632+0530] {processor.py:743} INFO - Processing file /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-04-16T15:34:30.633+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:34:30.633+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-16T15:34:30.643+0530] {processor.py:753} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-16T15:34:30.657+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:34:30.657+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T15:34:30.673+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:34:30.673+0530] {dag.py:3452} INFO - Setting next_dagrun for latest_only to 2023-04-16T06:04:30.673421+00:00, run_after=2023-04-16T10:04:30.673421+00:00
+[2023-04-16T15:34:31.614+0530] {processor.py:175} INFO - Processing /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.985 seconds
+[2023-04-16T15:35:49.254+0530] {processor.py:153} INFO - Started process (PID=126894) to work on /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-16T15:35:49.255+0530] {processor.py:743} INFO - Processing file /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-04-16T15:35:49.256+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:35:49.256+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-16T15:35:49.266+0530] {processor.py:753} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-04-16T15:35:49.279+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:35:49.279+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T15:35:49.296+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:35:49.295+0530] {dag.py:3452} INFO - Setting next_dagrun for latest_only to 2023-04-16T06:05:49.295783+00:00, run_after=2023-04-16T10:05:49.295783+00:00
+[2023-04-16T15:35:49.875+0530] {processor.py:175} INFO - Processing /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.623 seconds

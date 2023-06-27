@@ -1,0 +1,42 @@
+[2023-04-16T15:29:38.251+0530] {processor.py:153} INFO - Started process (PID=126003) to work on /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-16T15:29:38.252+0530] {processor.py:743} INFO - Processing file /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-04-16T15:29:38.252+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:29:38.252+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-16T15:29:38.271+0530] {processor.py:753} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-16T15:29:38.286+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:29:38.286+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T15:29:38.302+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:29:38.302+0530] {dag.py:3452} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-04-16T15:29:38.326+0530] {processor.py:175} INFO - Processing /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.077 seconds
+[2023-04-16T15:30:49.000+0530] {processor.py:153} INFO - Started process (PID=126219) to work on /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-16T15:30:49.015+0530] {processor.py:743} INFO - Processing file /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-04-16T15:30:49.015+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:30:49.015+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-16T15:30:49.030+0530] {processor.py:753} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-16T15:30:49.043+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:30:49.043+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T15:30:49.059+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:30:49.059+0530] {dag.py:3452} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-04-16T15:30:49.746+0530] {processor.py:175} INFO - Processing /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.749 seconds
+[2023-04-16T15:32:04.407+0530] {processor.py:153} INFO - Started process (PID=126364) to work on /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-16T15:32:04.408+0530] {processor.py:743} INFO - Processing file /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-04-16T15:32:04.409+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:32:04.408+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-16T15:32:04.422+0530] {processor.py:753} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-16T15:32:04.435+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:32:04.435+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T15:32:04.450+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:32:04.449+0530] {dag.py:3452} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-04-16T15:32:05.254+0530] {processor.py:175} INFO - Processing /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.849 seconds
+[2023-04-16T15:33:06.784+0530] {processor.py:153} INFO - Started process (PID=126487) to work on /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-16T15:33:06.785+0530] {processor.py:743} INFO - Processing file /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-04-16T15:33:06.786+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:33:06.786+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-16T15:33:06.797+0530] {processor.py:753} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-16T15:33:06.807+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:33:06.807+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T15:33:06.817+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:33:06.817+0530] {dag.py:3452} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-04-16T15:33:06.850+0530] {processor.py:175} INFO - Processing /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.068 seconds
+[2023-04-16T15:34:21.828+0530] {processor.py:153} INFO - Started process (PID=126631) to work on /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-16T15:34:21.829+0530] {processor.py:743} INFO - Processing file /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-04-16T15:34:21.830+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:34:21.830+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-16T15:34:21.845+0530] {processor.py:753} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-16T15:34:21.858+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:34:21.858+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T15:34:21.876+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:34:21.876+0530] {dag.py:3452} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-04-16T15:34:22.874+0530] {processor.py:175} INFO - Processing /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 1.048 seconds
+[2023-04-16T15:35:38.591+0530] {processor.py:153} INFO - Started process (PID=126874) to work on /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-16T15:35:38.593+0530] {processor.py:743} INFO - Processing file /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-04-16T15:35:38.593+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:35:38.593+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-16T15:35:38.606+0530] {processor.py:753} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-04-16T15:35:38.618+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:35:38.618+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T15:35:38.631+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:35:38.631+0530] {dag.py:3452} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-04-16T15:35:39.468+0530] {processor.py:175} INFO - Processing /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.878 seconds

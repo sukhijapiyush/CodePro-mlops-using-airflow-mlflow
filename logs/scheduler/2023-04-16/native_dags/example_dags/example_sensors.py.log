@@ -1,0 +1,42 @@
+[2023-04-16T15:29:50.187+0530] {processor.py:153} INFO - Started process (PID=126057) to work on /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_sensors.py
+[2023-04-16T15:29:50.187+0530] {processor.py:743} INFO - Processing file /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-04-16T15:29:50.187+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:29:50.187+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_sensors.py
+[2023-04-16T15:29:50.198+0530] {processor.py:753} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_sensors.py
+[2023-04-16T15:29:50.213+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:29:50.212+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T15:29:50.263+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:29:50.263+0530] {dag.py:3452} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-04-16T15:29:50.364+0530] {processor.py:175} INFO - Processing /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_sensors.py took 0.179 seconds
+[2023-04-16T15:31:01.293+0530] {processor.py:153} INFO - Started process (PID=126245) to work on /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_sensors.py
+[2023-04-16T15:31:01.295+0530] {processor.py:743} INFO - Processing file /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-04-16T15:31:01.295+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:31:01.295+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_sensors.py
+[2023-04-16T15:31:01.311+0530] {processor.py:753} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_sensors.py
+[2023-04-16T15:31:01.334+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:31:01.333+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T15:31:01.346+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:31:01.346+0530] {dag.py:3452} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-04-16T15:31:01.383+0530] {processor.py:175} INFO - Processing /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_sensors.py took 0.092 seconds
+[2023-04-16T15:32:15.863+0530] {processor.py:153} INFO - Started process (PID=126386) to work on /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_sensors.py
+[2023-04-16T15:32:15.865+0530] {processor.py:743} INFO - Processing file /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-04-16T15:32:15.865+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:32:15.865+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_sensors.py
+[2023-04-16T15:32:15.879+0530] {processor.py:753} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_sensors.py
+[2023-04-16T15:32:15.894+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:32:15.894+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T15:32:15.908+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:32:15.907+0530] {dag.py:3452} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-04-16T15:32:15.944+0530] {processor.py:175} INFO - Processing /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_sensors.py took 0.082 seconds
+[2023-04-16T15:33:15.939+0530] {processor.py:153} INFO - Started process (PID=126508) to work on /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_sensors.py
+[2023-04-16T15:33:15.940+0530] {processor.py:743} INFO - Processing file /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-04-16T15:33:15.941+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:33:15.941+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_sensors.py
+[2023-04-16T15:33:15.952+0530] {processor.py:753} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_sensors.py
+[2023-04-16T15:33:15.966+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:33:15.966+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T15:33:15.978+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:33:15.978+0530] {dag.py:3452} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-04-16T15:33:16.096+0530] {processor.py:175} INFO - Processing /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_sensors.py took 0.159 seconds
+[2023-04-16T15:34:32.724+0530] {processor.py:153} INFO - Started process (PID=126655) to work on /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_sensors.py
+[2023-04-16T15:34:32.726+0530] {processor.py:743} INFO - Processing file /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-04-16T15:34:32.726+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:34:32.726+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_sensors.py
+[2023-04-16T15:34:32.741+0530] {processor.py:753} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_sensors.py
+[2023-04-16T15:34:32.759+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:34:32.759+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T15:34:32.773+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:34:32.773+0530] {dag.py:3452} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-04-16T15:34:32.795+0530] {processor.py:175} INFO - Processing /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_sensors.py took 0.073 seconds
+[2023-04-16T15:35:50.278+0530] {processor.py:153} INFO - Started process (PID=126896) to work on /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_sensors.py
+[2023-04-16T15:35:50.280+0530] {processor.py:743} INFO - Processing file /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-04-16T15:35:50.280+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:35:50.280+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_sensors.py
+[2023-04-16T15:35:50.291+0530] {processor.py:753} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_sensors.py
+[2023-04-16T15:35:50.304+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:35:50.304+0530] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-16T15:35:50.317+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:35:50.317+0530] {dag.py:3452} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-04-16T15:35:51.177+0530] {processor.py:175} INFO - Processing /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/example_sensors.py took 0.900 seconds

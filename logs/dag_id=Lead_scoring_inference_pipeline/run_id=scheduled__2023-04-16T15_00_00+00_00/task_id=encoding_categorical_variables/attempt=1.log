@@ -1,0 +1,25 @@
+[2023-04-16T21:48:06.962+0530] {taskinstance.py:1090} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: Lead_scoring_inference_pipeline.encoding_categorical_variables scheduled__2023-04-16T15:00:00+00:00 [queued]>
+[2023-04-16T21:48:06.965+0530] {taskinstance.py:1090} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: Lead_scoring_inference_pipeline.encoding_categorical_variables scheduled__2023-04-16T15:00:00+00:00 [queued]>
+[2023-04-16T21:48:06.965+0530] {taskinstance.py:1288} INFO - 
+--------------------------------------------------------------------------------
+[2023-04-16T21:48:06.966+0530] {taskinstance.py:1289} INFO - Starting attempt 1 of 2
+[2023-04-16T21:48:06.966+0530] {taskinstance.py:1290} INFO - 
+--------------------------------------------------------------------------------
+[2023-04-16T21:48:06.987+0530] {taskinstance.py:1309} INFO - Executing <Task(PythonOperator): encoding_categorical_variables> on 2023-04-16 15:00:00+00:00
+[2023-04-16T21:48:06.991+0530] {standard_task_runner.py:55} INFO - Started process 39753 to run task
+[2023-04-16T21:48:06.992+0530] {standard_task_runner.py:82} INFO - Running: ['airflow', 'tasks', 'run', 'Lead_scoring_inference_pipeline', 'encoding_categorical_variables', 'scheduled__2023-04-16T15:00:00+00:00', '--job-id', '15', '--raw', '--subdir', 'DAGS_FOLDER/Lead_scoring_inference_pipeline/lead_scoring_inference_pipeline.py', '--cfg-path', '/tmp/tmptjmxw5rf']
+[2023-04-16T21:48:06.993+0530] {standard_task_runner.py:83} INFO - Job 15: Subtask encoding_categorical_variables
+[2023-04-16T21:48:07.024+0530] {task_command.py:389} INFO - Running <TaskInstance: Lead_scoring_inference_pipeline.encoding_categorical_variables scheduled__2023-04-16T15:00:00+00:00 [running]> on host pop-os.localdomain
+[2023-04-16T21:48:07.066+0530] {taskinstance.py:1516} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=Lead_scoring_inference_pipeline
+AIRFLOW_CTX_TASK_ID=encoding_categorical_variables
+AIRFLOW_CTX_EXECUTION_DATE=2023-04-16T15:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2023-04-16T15:00:00+00:00
+[2023-04-16T21:48:07.068+0530] {logging_mixin.py:137} INFO - model_input Exists
+[2023-04-16T21:48:07.068+0530] {logging_mixin.py:137} INFO - Error while running encode_features : Execution failed on sql 'select * from model_input': no such table: model_input
+[2023-04-16T21:48:07.068+0530] {python.py:177} INFO - Done. Returned value was: None
+[2023-04-16T21:48:07.070+0530] {taskinstance.py:1327} INFO - Marking task as SUCCESS. dag_id=Lead_scoring_inference_pipeline, task_id=encoding_categorical_variables, execution_date=20230416T150000, start_date=20230416T161806, end_date=20230416T161807
+[2023-04-16T21:48:07.124+0530] {local_task_job.py:212} INFO - Task exited with return code 0
+[2023-04-16T21:48:07.141+0530] {taskinstance.py:2596} INFO - 1 downstream tasks scheduled from follow-on schedule check

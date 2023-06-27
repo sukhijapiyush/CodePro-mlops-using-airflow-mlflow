@@ -1,0 +1,42 @@
+[2023-04-16T15:29:43.410+0530] {processor.py:153} INFO - Started process (PID=126011) to work on /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-16T15:29:43.410+0530] {processor.py:743} INFO - Processing file /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-04-16T15:29:43.411+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:29:43.411+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-16T15:29:43.472+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:29:43.472+0530] {utils.py:148} INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2023-04-16T15:29:43.472+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:29:43.472+0530] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2023-04-16T15:29:43.571+0530] {processor.py:755} WARNING - No viable dags retrieved from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-16T15:29:43.574+0530] {processor.py:175} INFO - Processing /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.166 seconds
+[2023-04-16T15:30:57.203+0530] {processor.py:153} INFO - Started process (PID=126226) to work on /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-16T15:30:57.204+0530] {processor.py:743} INFO - Processing file /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-04-16T15:30:57.205+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:30:57.205+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-16T15:30:57.259+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:30:57.259+0530] {utils.py:148} INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2023-04-16T15:30:57.259+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:30:57.259+0530] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2023-04-16T15:30:57.373+0530] {processor.py:755} WARNING - No viable dags retrieved from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-16T15:30:57.378+0530] {processor.py:175} INFO - Processing /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.176 seconds
+[2023-04-16T15:32:11.956+0530] {processor.py:153} INFO - Started process (PID=126373) to work on /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-16T15:32:11.958+0530] {processor.py:743} INFO - Processing file /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-04-16T15:32:11.958+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:32:11.958+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-16T15:32:12.020+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:32:12.020+0530] {utils.py:148} INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2023-04-16T15:32:12.020+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:32:12.020+0530] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2023-04-16T15:32:12.124+0530] {processor.py:755} WARNING - No viable dags retrieved from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-16T15:32:12.128+0530] {processor.py:175} INFO - Processing /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.175 seconds
+[2023-04-16T15:33:13.076+0530] {processor.py:153} INFO - Started process (PID=126495) to work on /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-16T15:33:13.078+0530] {processor.py:743} INFO - Processing file /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-04-16T15:33:13.079+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:33:13.079+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-16T15:33:13.143+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:33:13.142+0530] {utils.py:148} INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2023-04-16T15:33:13.143+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:33:13.143+0530] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2023-04-16T15:33:13.253+0530] {processor.py:755} WARNING - No viable dags retrieved from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-16T15:33:13.258+0530] {processor.py:175} INFO - Processing /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.183 seconds
+[2023-04-16T15:34:28.166+0530] {processor.py:153} INFO - Started process (PID=126638) to work on /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-16T15:34:28.168+0530] {processor.py:743} INFO - Processing file /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-04-16T15:34:28.168+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:34:28.168+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-16T15:34:28.238+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:34:28.238+0530] {utils.py:148} INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2023-04-16T15:34:28.238+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:34:28.238+0530] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2023-04-16T15:34:28.359+0530] {processor.py:755} WARNING - No viable dags retrieved from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-16T15:34:28.383+0530] {processor.py:175} INFO - Processing /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.219 seconds
+[2023-04-16T15:35:47.415+0530] {processor.py:153} INFO - Started process (PID=126883) to work on /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-16T15:35:47.417+0530] {processor.py:743} INFO - Processing file /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-04-16T15:35:47.418+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:35:47.418+0530] {dagbag.py:532} INFO - Filling up the DagBag from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-16T15:35:47.480+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:35:47.480+0530] {utils.py:148} INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2023-04-16T15:35:47.480+0530] {logging_mixin.py:137} INFO - [2023-04-16T15:35:47.480+0530] {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2023-04-16T15:35:47.586+0530] {processor.py:755} WARNING - No viable dags retrieved from /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-04-16T15:35:47.591+0530] {processor.py:175} INFO - Processing /home/nightfall/anaconda3/envs/ml/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.177 seconds
